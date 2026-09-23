@@ -1,10 +1,10 @@
-# Sichen Tao — Academic Homepage Next
+# Sichen Tao — Academic Homepage
 
-Public preview of Sichen Tao's redesigned academic homepage.
+Academic homepage of Sichen Tao.
 
 ## Live site
 
-<https://sichentao.github.io/academic-homepage-next/>
+<https://sichentao.github.io/academic-homepage/>
 
 ## Information architecture
 
@@ -21,7 +21,7 @@ The site uses the open-source [al-folio](https://github.com/alshedivat/al-folio)
 
 ```bash
 bundle install
-bundle exec jekyll serve --baseurl /academic-homepage-next
+bundle exec jekyll serve --baseurl /academic-homepage
 ```
 
 ## Content policy

@@ -3,7 +3,7 @@
 ## Scope and source of truth
 
 - Reference: Ran Cheng homepage, `https://chengran.tech/`, captured in light theme at 1440 × 1000.
-- Implementation: Sichen Tao academic homepage, local Jekyll build at the `/academic-homepage-next/` base path.
+- Implementation: Sichen Tao academic homepage, local Jekyll build at the `/academic-homepage/` base path.
 - Fidelity target: reproduce the reference's compact academic information architecture, typographic rhythm, five-item news block, and publication-list geometry while preserving Sichen Tao's content, purple identity, and original paper figures.
 
 ## Comparison evidence
