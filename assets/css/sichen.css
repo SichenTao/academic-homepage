@@ -815,7 +815,10 @@ h3,
 }
 
 .direct-list-page .year {
+  border-bottom: 0;
   font-weight: 500;
+  margin: 0;
+  padding-bottom: 0;
 }
 
 .direct-list-page .title {
