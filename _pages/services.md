@@ -2,7 +2,7 @@
 layout: page
 title: services
 permalink: /services/
-description: Editorial work, conference organization, and peer review.
+description: Editorial work, conference organization, mentoring, and peer review.
 nav: true
 nav_order: 4
 ---
@@ -14,7 +14,10 @@ nav_order: 4
     <h2>Editorial roles</h2>
     <ul>
       {% for item in site.data.services.editorial_roles %}
-        <li><span class="year">{{ item.period }}</span>: {{ item.title }}, <span class="title">{{ item.organization }}</span>.</li>
+        <li>
+          <span class="year">{{ item.period }}</span>: {{ item.title }},
+          {% if item.url %}<a class="title" href="{{ item.url }}">{{ item.organization }}</a>{% else %}<span class="title">{{ item.organization }}</span>{% endif %}.
+        </li>
       {% endfor %}
     </ul>
   </section>
@@ -23,6 +26,18 @@ nav_order: 4
     <h2>Conference organization</h2>
     <ul>
       {% for item in site.data.services.conference_organization %}
+        <li>
+          <span class="year">{{ item.period }}</span>: {{ item.title }},
+          {% if item.url %}<a class="title" href="{{ item.url }}">{{ item.organization }}</a>{% else %}<span class="title">{{ item.organization }}</span>{% endif %}.
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section>
+    <h2>Mentoring</h2>
+    <ul>
+      {% for item in site.data.services.teaching_mentoring %}
         <li>
           <span class="year">{{ item.period }}</span>: {{ item.title }},
           {% if item.url %}<a class="title" href="{{ item.url }}">{{ item.organization }}</a>{% else %}<span class="title">{{ item.organization }}</span>{% endif %}.

@@ -28,7 +28,7 @@
   - Optimization
   - Neural Architecture Search
   metadata_source: Acceptance notification and research record
-  venue_url: ''
+  venue_url: https://mcsoc-forum.org/site/
   selected: false
   public: true
   citation_authors_html: B. Shi, <em>S. Tao</em>, R. Zhao, H. Hu, S. Liu, Y. Yang
@@ -78,7 +78,7 @@
   tags:
   - HPC
   metadata_source: Acceptance notification and research record
-  venue_url: ''
+  venue_url: https://mcsoc-forum.org/site/
   selected: false
   public: true
   citation_authors_html: H. Ding, <em>S. Tao</em>, M. Kawai, H. Takizawa
@@ -127,7 +127,7 @@
   tags:
   - HPC
   metadata_source: Acceptance notification and research record
-  venue_url: ''
+  venue_url: https://is-candar.org/program
   selected: false
   public: true
   citation_authors_html: R. Imai, <em>S. Tao</em>, M. Kawai, H. Takizawa
@@ -175,7 +175,7 @@
   tags:
   - HPC
   metadata_source: Acceptance notification and research record
-  venue_url: ''
+  venue_url: https://is-candar.org/program
   selected: false
   public: true
   citation_authors_html: S. Nomura, <em>S. Tao</em>, M. Kawai, H. Takizawa
@@ -503,7 +503,7 @@
   - HPC
   - Domestic Workshop
   metadata_source: Acceptance notification and research record
-  venue_url: ''
+  venue_url: https://swopp.github.io/2026/program/
   selected: false
   public: true
   citation_authors_html: Y. Ishihara, M. Kawai, <em>S. Tao</em>, H. Takizawa
@@ -555,7 +555,7 @@
   - HPC
   - Domestic Workshop
   metadata_source: Acceptance notification and research record
-  venue_url: ''
+  venue_url: https://swopp.github.io/2026/program/
   selected: false
   public: true
   citation_authors_html: K. Watanabe, M. Kawai, J. Fukuhara, T. Funazaki, S. Nishimura, <em>S. Tao</em>,

@@ -5,6 +5,8 @@
   host: Cyberscience Center, Tohoku University
   location: Sendai, Japan
   description: Presentation delivered on October 27, 2026, during the workshop held on October 27-28, 2026.
+  url: https://www.sc.cc.tohoku.ac.jp/wssp42/en/program.html
+  source_url: https://www.sc.cc.tohoku.ac.jp/wssp42/en/program.html
 - date: "2026-05-18"
   type: Invited Talk
   title: Simulation Runtime Prediction in AI-Agent Society for Tsunami Evacuation

@@ -6,7 +6,7 @@ homepage: true
 category: Position
 title: Is appointed Assistant Professor at Tohoku University’s Cyberscience Center
 organization: Tohoku University, Cyberscience Center, High Performance Computing Laboratory
-external_url: ""
+external_url: "https://www.cc.tohoku.ac.jp/english/member/rd/"
 ---
 
 Joined the Research Division on Supercomputing Systems and the High Performance Computing Laboratory (Takizawa Laboratory) at Tohoku University's Cyberscience Center.

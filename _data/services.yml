@@ -6,6 +6,8 @@ editorial_roles:
     organization: Mathematics, MDPI, special issue “High-Performance Computing-Driven AI Learning and Optimization”
     description: Guest Editor for the special issue High-Performance Computing-Driven AI Learning and Optimization.
     institution_theme: tohoku
+    url: https://www.mdpi.com/journal/mathematics/special_issues/T728U01W2L
+    source_url: https://www.mdpi.com/journal/mathematics/special_issues/T728U01W2L
   - period: 2026-03 to present
     start: "2026-03"
     category: Editorial
@@ -13,6 +15,8 @@ editorial_roles:
     organization: Mathematics, MDPI, special issue “Mathematical Modelling and Intelligent Optimization for Complex Engineering Systems”
     description: Guest Editor for the special issue Mathematical Modelling and Intelligent Optimization for Complex Engineering Systems.
     institution_theme: tohoku
+    url: https://www.mdpi.com/journal/mathematics/special_issues/3ZXV1JDKOW
+    source_url: https://www.mdpi.com/journal/mathematics/special_issues/3ZXV1JDKOW
   - period: 2023-05 to 2025-01
     start: "2023-05-01"
     end: "2025-01-31"
@@ -30,6 +34,16 @@ editorial_roles:
     description: Supported the special issue Dynamics in Neural Networks across initial review, reviewer assignment, and editorial process support.
     institution_theme: toyama
 conference_organization:
+  - period: "2026-10-22"
+    start: "2026-10-22"
+    end: "2027-03-28"
+    category: Service
+    title: Publicity Chair
+    organization: 11th International Conference on Robotics, Control and Automation (ICRCA 2027)
+    description: Serves as Publicity Chair for ICRCA 2027 (March 26-28, 2027, Aizuwakamatsu, Japan); listed on the conference committee page.
+    institution_theme: tohoku
+    url: https://www.icrca.org/committee.html
+    source_url: https://www.icrca.org/committee.html
   - period: "2026"
     start: "2026-08-12"
     end: "2026-11-15"
@@ -50,6 +64,27 @@ conference_organization:
     institution_theme: tohoku
     url: https://mcsoc-forum.org/site/index.php/neurocore-t13/
     source_url: https://mcsoc-forum.org/site/index.php/all-session-chairs/
+teaching_mentoring:
+  - period: "2026-09"
+    start: "2026-08-20"
+    end: "2026-09-18"
+    category: Teaching
+    title: Mentor
+    organization: 3rd TSUBAME Mini Camp, Institute of Science Tokyo
+    description: Advised participants on GPU acceleration and performance optimization of AI and AI for Science applications on TSUBAME4.0 (September 11-18, 2026).
+    institution_theme: tohoku
+    url: https://www.t4.cii.isct.ac.jp/minicamp-3rd-202609
+    source_url: https://www.t4.cii.isct.ac.jp/minicamp-3rd-202609
+  - period: "2026-07"
+    start: "2026-06-12"
+    end: "2026-07-27"
+    category: Teaching
+    title: Mentor
+    organization: 15th GPU Mini Camp, Information Technology Center, The University of Tokyo / JCAHPC
+    description: Advised participants on GPU porting and performance optimization on the Miyabi supercomputer (hybrid camp, July 17 and 27, 2026).
+    institution_theme: tohoku
+    url: https://www.cc.u-tokyo.ac.jp/events/lectures/276/
+    source_url: https://www.cc.u-tokyo.ac.jp/events/lectures/276/
 reviewing:
   - label: IEEE Congress on Evolutionary Computation (CEC) 2024
     url: https://2024.ieeewcci.org/
@@ -72,6 +107,12 @@ reviewing:
   - label: International Conference on Swarm Intelligence (ICSI) 2024
     url: https://icsi2024.ustc.edu.cn/main.htm
     tag: Conference review
+  - label: IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC) 2026
+    url: https://mcsoc-forum.org/site/
+    tag: Conference review
+  - label: Advanced Engineering Informatics
+    url: https://www.sciencedirect.com/journal/advanced-engineering-informatics
+    tag: Journal review
   - label: Applied Sciences
     url: https://www.mdpi.com/journal/applsci
     tag: Journal review
@@ -168,6 +209,9 @@ reviewing:
       cas_source_mode: official_archive
       cas_search_copy_text: CMC-Computers Materials & Continua
       cas_public_source_url: https://www.ablesci.com/journal/detail?id=Q5yWPr
+  - label: Energy
+    url: https://www.sciencedirect.com/journal/energy
+    tag: Journal review
   - label: Engineering Applications of Artificial Intelligence
     url: https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence
     tag: Journal review
@@ -384,6 +428,9 @@ reviewing:
       cas_source_mode: official_archive
       cas_search_copy_text: Neural Networks
       cas_public_source_url: https://topj.lib.whu.edu.cn/show.asp?cat=sci&id=11534
+  - label: Robotics and Computer-Integrated Manufacturing
+    url: https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing
+    tag: Journal review
   - label: Swarm and Evolutionary Computation
     url: https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation
     tag: Journal review
