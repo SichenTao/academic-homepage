@@ -1,8 +1,21 @@
+- date: 2026-10
+  title: CANDAR 2026 Outstanding Paper Award
+  description: "Our co-authored long paper led by R. Imai, “Equivalence over Similarity: Hidden-Layer Verification as a Filter and a Metric for Fortran-to-C++ Translation,” received the Outstanding Paper Award at CANDAR 2026."
+  context: The award was notified on October 23, 2026, and will be presented at CANDAR 2026 in Ishigaki, Japan.
 - date: 2026-08
   title: SWoPP 2026 Best Research Award
   description: Our co-authored work led by Yusuke Ishihara, “A Transparent Dynamic Core Allocation Method for Hybrid MPI/OpenMP Parallel Programs,” received the Best Research Award at xSIG 2026.
   context: The award was presented during the 2026 Summer United Workshops on Parallel, Distributed and Cooperative Processing in Takayama, Japan.
   url: https://www.hpc.is.tohoku.ac.jp/event-en/2026/5558/
+- date: 2026-08
+  title: SWoPP 2026 Outstanding Presentation Award
+  description: Our co-authored work led by K. Watanabe, “Semi-Automatic Host-Device Data Transfer Based on Code Analysis,” received the Outstanding Presentation Award at xSIG 2026.
+  context: The award was presented during the 2026 Summer United Workshops on Parallel, Distributed and Cooperative Processing in Takayama, Japan.
+  url: https://www.hpc.is.tohoku.ac.jp/event-en/2026/5558/
+- date: 2026-06
+  title: IEEE CEC 2026 Competition Runner-up
+  description: Team RDE-SOR ranked second in the IEEE CEC 2026 competition.
+  url: https://github.com/P-N-Suganthan/2026-CEC
 - date: 2026-06
   title: IEEE CEC 2026 Competition Champion — Bound-Constrained Single-Objective Optimization
   description: RDE26 ranked first in the bound-constrained single-objective numerical optimization track.

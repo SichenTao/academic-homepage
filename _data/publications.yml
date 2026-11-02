@@ -1,4 +1,204 @@
 ---
+- id: nas-dnm-neural-architecture-search-for-dendritic-neuron-modeling-in-va-ecmo-mortality-prediction
+  title: 'NAS-DNM: Neural Architecture Search for Dendritic Neuron Modeling in VA-ECMO Mortality Prediction'
+  authors:
+  - Bingchao Shi
+  - Sichen Tao
+  - Ruihan Zhao
+  - Hanyu Hu
+  - Sicheng Liu
+  - Yifei Yang
+  author_line: Bingchao Shi, Sichen Tao, Ruihan Zhao, Hanyu Hu, Sicheng Liu, Yifei Yang
+  year: 2026
+  date: 2026-12
+  type: conference
+  status: accepted
+  venue: 19th IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC 2026),
+    Shanghai, China
+  venue_line: 19th IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC
+    2026), Shanghai, China
+  venue_abbr: MCSoC
+  citations: 0
+  citation_checked_at: '2026-11-02'
+  author_role: coauthor
+  role_note: ''
+  source_group: accepted_manuscript
+  source_label: Acceptance notification verified (2026-11-02 record)
+  tags:
+  - Optimization
+  - Neural Architecture Search
+  metadata_source: Acceptance notification and research record
+  venue_url: ''
+  selected: false
+  public: true
+  citation_authors_html: B. Shi, <em>S. Tao</em>, R. Zhao, H. Hu, S. Liu, Y. Yang
+  publication_stage: accepted
+  metadata_checked_at: '2026-11-02'
+  accepted_date: '2026-07-21'
+  metadata_gaps:
+  - field: abstract
+    reason: exact_original_abstract_not_yet_verified
+    source_url: ''
+    checked_at: '2026-11-02'
+  - field: doi
+    reason: not_yet_assigned_or_unverified
+    source_url: ''
+    checked_at: '2026-11-02'
+  - field: pages
+    reason: not_yet_assigned_or_unverified
+    source_url: ''
+    checked_at: '2026-11-02'
+  - field: paper_url
+    reason: not_yet_assigned_or_unverified
+    source_url: ''
+    checked_at: '2026-11-02'
+- id: degrees-of-freedom-in-submit-time-hpc-job-power-prediction-a-measurement-study
+  title: 'Degrees of Freedom in Submit-Time HPC Job Power Prediction: A Measurement Study'
+  authors:
+  - H. Ding
+  - Sichen Tao
+  - Masatoshi Kawai
+  - Hiroyuki Takizawa
+  author_line: H. Ding, Sichen Tao, Masatoshi Kawai, Hiroyuki Takizawa
+  year: 2026
+  date: 2026-12
+  type: conference
+  status: accepted
+  venue: 19th IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC 2026),
+    Shanghai, China
+  venue_line: 19th IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC
+    2026), Shanghai, China
+  venue_abbr: MCSoC
+  citations: 0
+  citation_checked_at: '2026-11-02'
+  author_role: coauthor
+  role_note: ''
+  source_group: accepted_manuscript
+  source_label: Acceptance notification verified (2026-11-02 record)
+  tags:
+  - HPC
+  metadata_source: Acceptance notification and research record
+  venue_url: ''
+  selected: false
+  public: true
+  citation_authors_html: H. Ding, <em>S. Tao</em>, M. Kawai, H. Takizawa
+  publication_stage: accepted
+  metadata_checked_at: '2026-11-02'
+  accepted_date: '2026-10-25'
+  metadata_gaps:
+  - field: abstract
+    reason: exact_original_abstract_not_yet_verified
+    source_url: ''
+    checked_at: '2026-11-02'
+  - field: doi
+    reason: not_yet_assigned_or_unverified
+    source_url: ''
+    checked_at: '2026-11-02'
+  - field: pages
+    reason: not_yet_assigned_or_unverified
+    source_url: ''
+    checked_at: '2026-11-02'
+  - field: paper_url
+    reason: not_yet_assigned_or_unverified
+    source_url: ''
+    checked_at: '2026-11-02'
+- id: equivalence-over-similarity-hidden-layer-verification-as-a-filter-and-a-metric-for-fortran-to-c-translation
+  title: 'Equivalence over Similarity: Hidden-Layer Verification as a Filter and a Metric for Fortran-to-C++
+    Translation'
+  authors:
+  - R. Imai
+  - Sichen Tao
+  - Masatoshi Kawai
+  - Hiroyuki Takizawa
+  author_line: R. Imai, Sichen Tao, Masatoshi Kawai, Hiroyuki Takizawa
+  year: 2026
+  date: 2026-11
+  type: conference
+  status: accepted
+  venue: CANDAR 2026 (Long Paper), Ishigaki, Japan
+  venue_line: CANDAR 2026 (Long Paper), Ishigaki, Japan
+  venue_abbr: CANDAR
+  citations: 0
+  citation_checked_at: '2026-11-02'
+  author_role: coauthor
+  role_note: ''
+  source_group: accepted_manuscript
+  source_label: Acceptance notification verified (2026-11-02 record)
+  tags:
+  - HPC
+  metadata_source: Acceptance notification and research record
+  venue_url: ''
+  selected: false
+  public: true
+  citation_authors_html: R. Imai, <em>S. Tao</em>, M. Kawai, H. Takizawa
+  publication_stage: accepted
+  metadata_checked_at: '2026-11-02'
+  accepted_date: '2026-09-21'
+  metadata_gaps:
+  - field: abstract
+    reason: exact_original_abstract_not_yet_verified
+    source_url: ''
+    checked_at: '2026-11-02'
+  - field: doi
+    reason: not_yet_assigned_or_unverified
+    source_url: ''
+    checked_at: '2026-11-02'
+  - field: pages
+    reason: not_yet_assigned_or_unverified
+    source_url: ''
+    checked_at: '2026-11-02'
+  - field: paper_url
+    reason: not_yet_assigned_or_unverified
+    source_url: ''
+    checked_at: '2026-11-02'
+- id: vecarp-a-cache-replacement-policy-exploiting-vector-code-context
+  title: 'VeCaRP: A Cache Replacement Policy Exploiting Vector Code Context'
+  authors:
+  - S. Nomura
+  - Sichen Tao
+  - Masatoshi Kawai
+  - Hiroyuki Takizawa
+  author_line: S. Nomura, Sichen Tao, Masatoshi Kawai, Hiroyuki Takizawa
+  year: 2026
+  date: 2026-11
+  type: conference
+  status: accepted
+  venue: CANDAR 2026 (Regular Paper), Ishigaki, Japan
+  venue_line: CANDAR 2026 (Regular Paper), Ishigaki, Japan
+  venue_abbr: CANDAR
+  citations: 0
+  citation_checked_at: '2026-11-02'
+  author_role: coauthor
+  role_note: ''
+  source_group: accepted_manuscript
+  source_label: Acceptance notification verified (2026-11-02 record)
+  tags:
+  - HPC
+  metadata_source: Acceptance notification and research record
+  venue_url: ''
+  selected: false
+  public: true
+  citation_authors_html: S. Nomura, <em>S. Tao</em>, M. Kawai, H. Takizawa
+  publication_stage: accepted
+  metadata_checked_at: '2026-11-02'
+  accepted_date: '2026-09-21'
+  metadata_gaps:
+  - field: abstract
+    reason: exact_original_abstract_not_yet_verified
+    source_url: ''
+    checked_at: '2026-11-02'
+  - field: doi
+    reason: not_yet_assigned_or_unverified
+    source_url: ''
+    checked_at: '2026-11-02'
+  - field: pages
+    reason: not_yet_assigned_or_unverified
+    source_url: ''
+    checked_at: '2026-11-02'
+  - field: paper_url
+    reason: not_yet_assigned_or_unverified
+    source_url: ''
+    checked_at: '2026-11-02'
 - id: a-fractional-order-gradient-guided-dynamic-block-coordinate-evolution-strategy-for-large-scale-expensive-optimization
   title: A Fractional-Order Gradient Guided Dynamic Block-Coordinate Evolution Strategy
     for Large-Scale Expensive Optimization
@@ -12,9 +212,9 @@
   author_line: Hanyu Hu, Jian Wang, Zhilei Sun, Sichen Tao, Jacek Mańdziuk, Nikhil
     R. Pal
   year: 2026
-  date: '2026-08-28'
+  date: '2026-09-08'
   type: journal
-  status: accepted
+  status: published
   venue: IEEE Transactions on Evolutionary Computation
   venue_line: IEEE Transactions on Evolutionary Computation
   venue_abbr: IEEE TEVC
@@ -24,15 +224,14 @@
   author_role: coauthor
   role_note: ''
   source_group: accepted_manuscript
-  source_label: Acceptance decision and accepted manuscript verified; public bibliographic
-    details cross-checked against the authors' institutional page
-  citation_source_url: https://scholar.google.com/scholar?q=%22A+Fractional-Order+Gradient+Guided+Dynamic+Block-Coordinate+Evolution+Strategy%22
-  url: https://cis.ieee.org/publications/t-evolutionary-computation
+  source_label: IEEE Xplore Early Access record and Crossref verified
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FTEVC.2026.3731524
+  url: https://doi.org/10.1109/TEVC.2026.3731524
   tags:
   - Optimization
   - Evolutionary Computation
   - Expensive Optimization
-  metadata_source: Accepted manuscript and institutional publication record
+  metadata_source: IEEE Xplore and Crossref
   venue_url: https://cis.ieee.org/publications/t-evolutionary-computation
   verification:
     accepted_date: '2026-08-28'
@@ -56,12 +255,15 @@
     cas_year: 2025
     cas_top: true
     cas_top_year: 2025
+    doi: 10.1109/TEVC.2026.3731524
+    url: https://doi.org/10.1109/TEVC.2026.3731524
+    publisher_url: https://ieeexplore.ieee.org/document/11683643
+    online_date: '2026-09-08'
   citation_sources:
     google_scholar:
-      url: https://scholar.google.com/scholar?q=%22A+Fractional-Order+Gradient+Guided+Dynamic+Block-Coordinate+Evolution+Strategy%22
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FTEVC.2026.3731524
       mode: search
-      copy_text: A Fractional-Order Gradient Guided Dynamic Block-Coordinate Evolution
-        Strategy for Large-Scale Expensive Optimization
+      copy_text: 10.1109/TEVC.2026.3731524
   abstract: Large-scale expensive optimization problems present a formidable challenge
     characterized by high-dimensional search spaces constrained by strictly limited
     evaluation budgets. Although surrogate-assisted evolutionary algorithms (SAEAs)
@@ -90,7 +292,7 @@
   corresponding_author_source_note: Accepted manuscript and user-confirmed authorship
     record.
   corresponding_authors_verified_at: '2026-08-31'
-  preview: "/assets/img/publication_preview/fobes-framework-fig2.jpg"
+  preview: /assets/img/publication_preview/fobes-framework-fig2.jpg
   preview_alt: Schematic diagram of the FOBES framework, reproduced from Figure 2
     of the accepted manuscript
   preview_source_url: https://cis.ieee.org/publications/t-evolutionary-computation
@@ -98,26 +300,402 @@
   public: true
   citation_authors_html: H. Hu, J. Wang*, Z. Sun, <em>S. Tao*</em>, J. Mańdziuk, N.
     R. Pal
-  publication_stage: accepted
-  metadata_checked_at: '2026-08-31'
+  publication_stage: online
+  metadata_checked_at: '2026-09-24'
   accepted_date: '2026-08-28'
   metadata_gaps:
-  - field: doi
-    reason: not_yet_assigned
-    source_url: https://cis.ieee.org/publications/t-evolutionary-computation
-    checked_at: '2026-08-31'
   - field: volume
     reason: not_yet_applicable_or_assigned
-    source_url: https://cis.ieee.org/publications/t-evolutionary-computation
-    checked_at: '2026-08-31'
+    source_url: https://ieeexplore.ieee.org/document/11683643
+    checked_at: '2026-09-24'
   - field: issue
     reason: not_yet_applicable_or_assigned
-    source_url: https://cis.ieee.org/publications/t-evolutionary-computation
-    checked_at: '2026-08-31'
+    source_url: https://ieeexplore.ieee.org/document/11683643
+    checked_at: '2026-09-24'
   - field: locator
     reason: not_yet_applicable_or_assigned
-    source_url: https://cis.ieee.org/publications/t-evolutionary-computation
-    checked_at: '2026-08-31'
+    source_url: https://ieeexplore.ieee.org/document/11683643
+    checked_at: '2026-09-24'
+  online_label: Early Access
+  online_date: '2026-09-08'
+  doi: 10.1109/TEVC.2026.3731524
+  paper_url: https://ieeexplore.ieee.org/document/11683643
+  publisher_url: https://ieeexplore.ieee.org/document/11683643
+  metadata_source_url: https://api.crossref.org/works/10.1109%2FTEVC.2026.3731524
+- id: adaptive-product-family-formation-a-medoid-based-fuzzy-clustering-method-for-mixed-product-assembly-in-the-shared-human-robot-collaborative-system
+  title: 'Adaptive product family formation: A medoid-based fuzzy clustering method
+    for mixed product assembly in the shared human–robot collaborative system'
+  authors:
+  - Ruihan Zhao
+  - Sichen Tao
+  - Yangzheng Zhou
+  - Xinyang Zhang
+  - Pengzhong Li
+  author_line: Ruihan Zhao, Sichen Tao, Yangzheng Zhou, Xinyang Zhang, Pengzhong Li
+  year: 2026
+  date: 2026-08
+  type: journal
+  status: published
+  venue: Applied Soft Computing
+  venue_line: Applied Soft Computing
+  volume: '200'
+  pages: ''
+  publisher: Elsevier BV
+  citations: 0
+  citation_checked_at: '2026-08-31'
+  author_role: coauthor
+  role_note: ''
+  source_group: indexed
+  source_label: Crossref and ScienceDirect records verified
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.asoc.2026.115419
+  url: https://doi.org/10.1016/j.asoc.2026.115419
+  doi: 10.1016/j.asoc.2026.115419
+  tags:
+  - Human-Robot
+  metadata_source: Crossref
+  venue_url: https://www.sciencedirect.com/journal/applied-soft-computing
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.asoc.2026.115419
+      mode: search
+      copy_text: 10.1016/j.asoc.2026.115419
+  selected: false
+  public: true
+  citation_authors_html: R. Zhao, <em>S. Tao</em>, Y. Zhou, X. Zhang, P. Li
+  article_number: '115419'
+  publication_stage: published
+  metadata_checked_at: '2026-09-24'
+  published_date: 2026-08
+  online_date: '2026-05-14'
+  metadata_source_url: https://api.crossref.org/works/10.1016%2Fj.asoc.2026.115419
+  paper_url: https://www.sciencedirect.com/science/article/pii/S1568494626008677
+  publisher_url: https://www.sciencedirect.com/science/article/pii/S1568494626008677
+  metadata_gaps:
+  - field: abstract
+    reason: exact_original_abstract_not_yet_verified
+    source_url: https://api.crossref.org/works/10.1016%2Fj.asoc.2026.115419
+    checked_at: '2026-09-24'
+- id: a-level-direction-guided-hierarchical-particle-swarm-optimization-for-wind-farm-layout-optimization
+  title: A Level-Direction Guided Hierarchical Particle Swarm Optimization for Wind
+    Farm Layout Optimization
+  authors:
+  - Tao Zheng
+  - Sichen Tao
+  - Wenzhu Gu
+  - Zhenyu Lei
+  - Shangce Gao
+  author_line: Tao Zheng, Sichen Tao, Wenzhu Gu, Zhenyu Lei, Shangce Gao
+  year: 2026
+  date: '2026-06-04'
+  type: journal
+  status: published
+  venue: Tsinghua Science and Technology
+  venue_line: Tsinghua Science and Technology
+  publisher: Tsinghua University Press
+  citations: 0
+  citation_checked_at: '2026-09-24'
+  author_role: coauthor
+  role_note: ''
+  source_group: indexed
+  source_label: Crossref and SciOpen records verified
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.26599%2FTST.2026.9010059
+  url: https://doi.org/10.26599/TST.2026.9010059
+  doi: 10.26599/TST.2026.9010059
+  tags:
+  - Optimization
+  - Wind Farm
+  metadata_source: Crossref
+  venue_url: ''
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.26599%2FTST.2026.9010059
+      mode: search
+      copy_text: 10.26599/TST.2026.9010059
+    semantic_scholar:
+      url: https://www.semanticscholar.org/search?q=10.26599%2FTST.2026.9010059
+      mode: search
+      copy_text: 10.26599/TST.2026.9010059
+  selected: false
+  public: true
+  citation_authors_html: T. Zheng, <em>S. Tao</em>, W. Gu, Z. Lei, S. Gao*
+  publication_stage: online
+  online_label: Just Accepted
+  metadata_checked_at: '2026-09-24'
+  online_date: '2026-06-04'
+  corresponding_authors:
+  - Shangce Gao
+  corresponding_author_source_url: https://www.sciopen.com/article/10.26599/TST.2026.9010059
+  corresponding_authors_verified_at: '2026-09-24'
+  metadata_source_url: https://api.crossref.org/works/10.26599%2FTST.2026.9010059
+  paper_url: https://www.sciopen.com/article/10.26599/TST.2026.9010059
+  publisher_url: https://www.sciopen.com/article/10.26599/TST.2026.9010059
+  metadata_gaps:
+  - field: abstract
+    reason: exact_original_abstract_not_yet_verified
+    source_url: https://api.crossref.org/works/10.26599%2FTST.2026.9010059
+    checked_at: '2026-09-24'
+- id: closed-loop-success-history-driven-reconstructed-differential-evolution-for-constrained-multi-objective-optimization
+  title: Closed-Loop Success-History Driven Reconstructed Differential Evolution for Constrained Multi-Objective
+    Optimization
+  authors:
+  - Chennuo Jin
+  - Bingchao Shi
+  - Sichen Tao
+  - Yifei Yang
+  author_line: Chennuo Jin, Bingchao Shi, Sichen Tao, Yifei Yang
+  year: 2026
+  date: 2026-06
+  type: conference
+  status: published
+  venue: 2026 IEEE Congress on Evolutionary Computation (CEC), Maastricht, Netherlands
+  venue_line: 2026 IEEE Congress on Evolutionary Computation (CEC), Maastricht, Netherlands
+  venue_abbr: IEEE CEC
+  publisher: IEEE
+  pages: 1-8
+  citations: 0
+  citation_checked_at: '2026-11-02'
+  author_role: coauthor
+  role_note: ''
+  source_group: indexed
+  source_label: Crossref record verified
+  url: https://doi.org/10.1109/CEC69861.2026.11727269
+  doi: 10.1109/CEC69861.2026.11727269
+  tags:
+  - Optimization
+  - Evolutionary Computation
+  metadata_source: Crossref
+  venue_url: ''
+  selected: false
+  public: true
+  citation_authors_html: C. Jin, B. Shi, <em>S. Tao</em>, Y. Yang
+  publication_stage: published
+  metadata_checked_at: '2026-11-02'
+  paper_url: https://doi.org/10.1109/CEC69861.2026.11727269
+  publisher_url: https://doi.org/10.1109/CEC69861.2026.11727269
+  metadata_source_url: https://api.crossref.org/works/10.1109%2FCEC69861.2026.11727269
+  metadata_gaps:
+  - field: abstract
+    reason: exact_original_abstract_not_yet_verified
+    source_url: https://api.crossref.org/works/10.1109%2FCEC69861.2026.11727269
+    checked_at: '2026-11-02'
+- id: a-transparent-dynamic-core-allocation-method-for-hybrid-mpi-openmp-parallel-programs
+  title: A Transparent Dynamic Core Allocation Method for Hybrid MPI/OpenMP Parallel Programs
+  authors:
+  - Yusuke Ishihara
+  - Masatoshi Kawai
+  - Sichen Tao
+  - Hiroyuki Takizawa
+  author_line: Yusuke Ishihara, Masatoshi Kawai, Sichen Tao, Hiroyuki Takizawa
+  year: 2026
+  date: '2026-08-05'
+  type: conference
+  status: published
+  venue: xSIG 2026 (SWoPP 2026), Takayama, Japan
+  venue_line: xSIG 2026 (SWoPP 2026), Takayama, Japan
+  venue_abbr: xSIG
+  citations: 0
+  citation_checked_at: '2026-11-02'
+  author_role: coauthor
+  role_note: ''
+  source_group: indexed
+  source_label: Workshop program and laboratory record verified
+  tags:
+  - HPC
+  - Domestic Workshop
+  metadata_source: Acceptance notification and research record
+  venue_url: ''
+  selected: false
+  public: true
+  citation_authors_html: Y. Ishihara, M. Kawai, <em>S. Tao</em>, H. Takizawa
+  publication_stage: published
+  metadata_checked_at: '2026-11-02'
+  metadata_gaps:
+  - field: abstract
+    reason: exact_original_abstract_not_yet_verified
+    source_url: ''
+    checked_at: '2026-11-02'
+  - field: doi
+    reason: not_yet_assigned_or_unverified
+    source_url: ''
+    checked_at: '2026-11-02'
+  - field: pages
+    reason: not_yet_assigned_or_unverified
+    source_url: ''
+    checked_at: '2026-11-02'
+  - field: paper_url
+    reason: not_yet_assigned_or_unverified
+    source_url: ''
+    checked_at: '2026-11-02'
+- id: semi-automatic-host-device-data-transfer-based-on-code-analysis
+  title: Semi-Automatic Host-Device Data Transfer Based on Code Analysis
+  authors:
+  - K. Watanabe
+  - Masatoshi Kawai
+  - J. Fukuhara
+  - T. Funazaki
+  - S. Nishimura
+  - Sichen Tao
+  - Hiroyuki Takizawa
+  author_line: K. Watanabe, Masatoshi Kawai, J. Fukuhara, T. Funazaki, S. Nishimura, Sichen Tao, Hiroyuki
+    Takizawa
+  year: 2026
+  date: '2026-08-05'
+  type: conference
+  status: published
+  venue: xSIG 2026 (SWoPP 2026), Takayama, Japan
+  venue_line: xSIG 2026 (SWoPP 2026), Takayama, Japan
+  venue_abbr: xSIG
+  citations: 0
+  citation_checked_at: '2026-11-02'
+  author_role: coauthor
+  role_note: ''
+  source_group: indexed
+  source_label: Workshop program and laboratory record verified
+  tags:
+  - HPC
+  - Domestic Workshop
+  metadata_source: Acceptance notification and research record
+  venue_url: ''
+  selected: false
+  public: true
+  citation_authors_html: K. Watanabe, M. Kawai, J. Fukuhara, T. Funazaki, S. Nishimura, <em>S. Tao</em>,
+    H. Takizawa
+  publication_stage: published
+  metadata_checked_at: '2026-11-02'
+  metadata_gaps:
+  - field: abstract
+    reason: exact_original_abstract_not_yet_verified
+    source_url: ''
+    checked_at: '2026-11-02'
+  - field: doi
+    reason: not_yet_assigned_or_unverified
+    source_url: ''
+    checked_at: '2026-11-02'
+  - field: pages
+    reason: not_yet_assigned_or_unverified
+    source_url: ''
+    checked_at: '2026-11-02'
+  - field: paper_url
+    reason: not_yet_assigned_or_unverified
+    source_url: ''
+    checked_at: '2026-11-02'
+- id: fo-moea-d-p-fractional-order-probability-guided-decomposition-for-smart-three-objective-wind-farm-layout-optimization
+  title: 'FO-MOEA/D-P: Fractional-Order Probability-Guided Decomposition for Smart
+    Three-Objective Wind Farm Layout Optimization'
+  authors:
+  - Jinlei Gao
+  - Sichen Tao
+  - Ruihan Zhao
+  - Hanyu Hu
+  - Qingke Zhang
+  - Sicheng Liu
+  author_line: Jinlei Gao, Sichen Tao, Ruihan Zhao, Hanyu Hu, Qingke Zhang, Sicheng
+    Liu
+  year: 2026
+  date: 2026-06
+  type: conference
+  status: published
+  venue: 2026 2nd International Conference on Communication Networks and Smart Systems
+    Engineering (ICCNSE)
+  venue_line: 2026 2nd International Conference on Communication Networks and Smart
+    Systems Engineering (ICCNSE)
+  pages: 131-136
+  publisher: IEEE
+  citations: 0
+  citation_checked_at: '2026-09-24'
+  author_role: coauthor
+  role_note: ''
+  source_group: indexed
+  source_label: Crossref and IEEE Xplore records verified
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FICCNSE70788.2026.11636107
+  url: https://doi.org/10.1109/ICCNSE70788.2026.11636107
+  doi: 10.1109/ICCNSE70788.2026.11636107
+  tags:
+  - Optimization
+  - Wind Farm
+  - Multiobjective Optimization
+  metadata_source: Crossref
+  venue_url: ''
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FICCNSE70788.2026.11636107
+      mode: search
+      copy_text: 10.1109/ICCNSE70788.2026.11636107
+    semantic_scholar:
+      url: https://www.semanticscholar.org/search?q=10.1109%2FICCNSE70788.2026.11636107
+      mode: search
+      copy_text: 10.1109/ICCNSE70788.2026.11636107
+  selected: false
+  public: true
+  citation_authors_html: J. Gao, <em>S. Tao</em>, R. Zhao, H. Hu, Q. Zhang, S. Liu
+  publication_stage: published
+  metadata_checked_at: '2026-09-24'
+  published_date: 2026-06
+  online_date: '2026-08-13'
+  metadata_source_url: https://api.crossref.org/works/10.1109%2FICCNSE70788.2026.11636107
+  paper_url: https://ieeexplore.ieee.org/document/11636107
+  publisher_url: https://ieeexplore.ieee.org/document/11636107
+  metadata_gaps:
+  - field: abstract
+    reason: exact_original_abstract_not_yet_verified
+    source_url: https://api.crossref.org/works/10.1109%2FICCNSE70788.2026.11636107
+    checked_at: '2026-09-24'
+- id: key-profiling-driven-heuristic-machine-learning-predictor-for-mapping-strategy-selection-in-heterogeneous-multi-core-numa-systems
+  title: Key Profiling-Driven Heuristic Machine Learning Predictor for Mapping Strategy
+    Selection in Heterogeneous Multi-Core NUMA Systems
+  authors:
+  - Yifan Jin
+  - Sichen Tao
+  - Mulya Agung
+  - Masatoshi Kawai
+  - Hiroyuki Takizawa
+  author_line: Yifan Jin, Sichen Tao, Mulya Agung, Masatoshi Kawai, Hiroyuki Takizawa
+  year: 2026
+  date: '2026-04-15'
+  type: conference
+  status: published
+  venue: 2026 IEEE Symposium on Low-Power and High-Speed Chips and Systems (COOL CHIPS)
+  venue_line: 2026 IEEE Symposium on Low-Power and High-Speed Chips and Systems (COOL
+    CHIPS)
+  pages: 1-6
+  publisher: IEEE
+  citations: 0
+  citation_checked_at: '2026-09-24'
+  author_role: coauthor
+  role_note: ''
+  source_group: indexed
+  source_label: Crossref and IEEE Xplore records verified
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FCOOLCHIPS68842.2026.11557040
+  url: https://doi.org/10.1109/COOLCHIPS68842.2026.11557040
+  doi: 10.1109/COOLCHIPS68842.2026.11557040
+  tags:
+  - HPC
+  metadata_source: Crossref
+  venue_url: ''
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FCOOLCHIPS68842.2026.11557040
+      mode: search
+      copy_text: 10.1109/COOLCHIPS68842.2026.11557040
+    semantic_scholar:
+      url: https://www.semanticscholar.org/search?q=10.1109%2FCOOLCHIPS68842.2026.11557040
+      mode: search
+      copy_text: 10.1109/COOLCHIPS68842.2026.11557040
+  selected: false
+  public: true
+  citation_authors_html: Y. Jin, <em>S. Tao</em>, M. Agung, M. Kawai, H. Takizawa
+  publication_stage: published
+  metadata_checked_at: '2026-09-24'
+  published_date: '2026-04-15'
+  online_date: '2026-06-16'
+  metadata_source_url: https://api.crossref.org/works/10.1109%2FCOOLCHIPS68842.2026.11557040
+  paper_url: https://ieeexplore.ieee.org/document/11557040
+  publisher_url: https://ieeexplore.ieee.org/document/11557040
+  metadata_gaps:
+  - field: abstract
+    reason: exact_original_abstract_not_yet_verified
+    source_url: https://api.crossref.org/works/10.1109%2FCOOLCHIPS68842.2026.11557040
+    checked_at: '2026-09-24'
 - id: rdex-cmop-feasibility-aware-indicator-guided-differential-evolution-for-fixed-budget-constrained-multiobjective-optimization
   title: 'RDEx-CMOP: Feasibility-Aware Indicator-Guided Differential Evolution for
     Fixed-Budget Constrained Multiobjective Optimization'
@@ -169,6 +747,153 @@
   - field: abstract
     reason: exact_original_abstract_not_yet_verified
     source_url: https://arxiv.org/abs/2604.03708
+    checked_at: '2026-08-31'
+- id: adversarial-game-optimization-a-game-theoretic-metaheuristic-for-efficient-complex-optimization-and-engineering-applications
+  title: 'Adversarial game optimization: A game-theoretic metaheuristic for efficient
+    complex optimization and engineering applications'
+  authors:
+  - Conglin Li
+  - Qingke Zhang
+  - Junqing Li
+  - Sichen Tao
+  - Diego Oliva
+  author_line: Conglin Li, Qingke Zhang, Junqing Li, Sichen Tao, Diego Oliva
+  year: 2026
+  date: 2026-04
+  type: journal
+  status: published
+  venue: Information Sciences
+  venue_line: Information Sciences
+  venue_abbr: INS
+  abstract: 'Metaheuristic optimization algorithms have demonstrated strong performance
+    when applied to complex nonlinear optimization tasks. However, their performance
+    often degrades in high-dimensional and multimodal settings due to premature convergence
+    and insufficient global search. To address these limitations, an Adversarial Game
+    Optimization Algorithm (AGOA) is proposed, which constructs a metaheuristic optimization
+    framework based on adversarial game mechanisms. AGOA integrates three mechanisms:
+    (i) a dynamic role-based population partitioning strategy that assigns individuals
+    as elites, explorers, or responders to balance exploration and exploitation; (ii)
+    an adversarial feedback mechanism where worst-case responders introduce directed
+    perturbations to counter elite dominance; and (iii) a diversity-preserving breakout
+    strategy that monitors population stagnation and activates adaptive restarts.
+    AGOA was tested on CEC 2017 (30D/50D/100D) and CEC 2022 (10D/20D), as well as
+    applications including multi-threshold image segmentation, constrained engineering
+    design, and UAV 3D path planning. Experimental evaluations indicate that AGOA
+    achieves superior performance compared with 79 optimizers in solution quality,
+    convergence behavior, and stability, achieving top rankings across all test categories.
+    Theoretical analysis further establishes convergence to the global optimum in
+    expectation and probability under mild conditions. Overall, AGOA offers a scalable
+    and generalizable optimization framework with strong practical relevance. An open-access
+    implementation of AGOA is provided at https://github.com/tsingke/AGOA.'
+  abstract_source_url: https://www.sciencedirect.com/science/article/pii/S0020025525011594
+  abstract_verified_at: '2026-08-31'
+  corresponding_authors:
+  - Qingke Zhang
+  corresponding_author_source_url: https://www.sciencedirect.com/science/article/pii/S0020025525011594
+  corresponding_authors_verified_at: '2026-08-31'
+  volume: '735'
+  publisher: Elsevier BV
+  citations: 0
+  citation_checked_at: '2026-08-31'
+  author_role: coauthor
+  role_note: ''
+  source_group: indexed
+  source_label: Google Scholar indexed record normalized in the public dossier
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.ins.2025.123022
+  url: https://doi.org/10.1016/j.ins.2025.123022
+  doi: 10.1016/j.ins.2025.123022
+  code_url: https://github.com/tsingke/AGOA
+  tags:
+  - Optimization
+  metadata_source: Crossref
+  publisher_url: https://www.sciencedirect.com/science/article/pii/S0020025525011594
+  verification:
+    doi: 10.1016/j.ins.2025.123022
+    url: https://doi.org/10.1016/j.ins.2025.123022
+    publisher_url: https://doi.org/10.1016/j.ins.2025.123022
+    accepted_date: ''
+    published_date: '2026-04-01'
+    crossref_created_date: '2025-12-20'
+    metric_anchor_date: '2025-12-20'
+    metric_anchor_kind: crossref_created_date
+    metric_basis: publication_year_or_latest_verified_historical_metrics
+    verification_status: publisher_record_verified_no_public_acceptance_date
+    if_value: 6.8
+    if_year: 2024
+    jcr_quartile: Q1
+    jcr_year: 2024
+    jcr_top_10: true
+    citescore: 14.4
+    citescore_year: 2024
+    citescore_source_url: https://journalrank.rcsi.science/ru/record-sources/indicators/8931/
+    metrics_verified_at: '2026-08-31'
+    cas_quartile: Q1
+    cas_year: 2025
+    cas_top: true
+    cas_top_year: 2025
+    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INFORM%20SCI&year=2024&fromPage=%2Fjcr%2Fhome
+    if_source_mode: official_profile_fallback
+    if_source_official_year: 2024
+    if_search_copy_text: Information Sciences
+    if_public_source_url: https://www.sciencedirect.com/journal/information-sciences
+    cas_source_url: https://www.fabiao.com.cn/sci/00200255/
+    cas_public_source_url: https://www.fabiao.com.cn/sci/00200255/
+    cas_official_source_url: https://www.fenqubiao.com/
+    cas_source_mode: official_search
+    cas_search_copy_text: Information Sciences
+    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INFORM%20SCI&year=2024&fromPage=%2Fjcr%2Fhome
+    jcr_source_mode: official_profile_fallback
+    jcr_source_official_year: 2024
+    jcr_search_copy_text: Information Sciences
+    jcr_public_source_url: https://jrank.net/journals/inform-sciences/metrics
+    if_supporting_source_url: https://www.sciencedirect.com/journal/information-sciences
+    cas_supporting_source_url: https://www.fabiao.com.cn/sci/00200255/
+    jcr_supporting_source_url: https://jrank.net/journals/inform-sciences/metrics
+    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INFORM%20SCI&year=2024&fromPage=%2Fjcr%2Fhome
+    clarivate_official_year: 2024
+    cas_official_platform_url: https://www.fenqubiao.com/
+    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
+    metrics_note: 2024 JCR Q1 · 2024 IF 6.8 · 2024 CiteScore 14.4
+  venue_url: https://www.sciencedirect.com/journal/information-sciences
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.ins.2025.123022
+      mode: search
+      copy_text: 10.1016/j.ins.2025.123022
+    openalex:
+      url: https://openalex.org/W7116359479
+      mode: direct
+      copy_text: ''
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/001eca53b66e9e8c5d443916ffad825e2f8e2fdf
+      mode: direct
+      copy_text: ''
+  ccf:
+    class: B
+    year: 2022
+    source_url: "/assets/docs/official/ccf_recommended_venues_2022_official.pdf"
+    supporting_url: "/assets/docs/official/ccf_recommended_venues_portal_official.html"
+  selected: true
+  public: true
+  citation_authors_html: C. Li, Q. Zhang*, J. Li, <em>S. Tao</em>, D. Oliva
+  preview: "/assets/img/publication_preview/adversarial-game-optimization-fig1.jpg"
+  preview_alt: 'Figure 1 from the paper: dynamic role-based adversarial game optimization
+    framework'
+  preview_source_url: https://www.sciencedirect.com/science/article/pii/S0020025525011594
+  publication_stage: published
+  metadata_checked_at: '2026-08-31'
+  artifacts:
+  - type: code
+    label: Code
+    url: https://github.com/tsingke/AGOA
+  published_date: '2026-04-01'
+  article_number: '123022'
+  metadata_source_url: https://api.crossref.org/works/10.1016%2Fj.ins.2025.123022
+  paper_url: https://www.sciencedirect.com/science/article/pii/S0020025525011594
+  metadata_gaps:
+  - field: issue
+    reason: journal_does_not_assign_or_official_record_omits_issue
+    source_url: https://api.crossref.org/works/10.1016%2Fj.ins.2025.123022
     checked_at: '2026-08-31'
 - id: rdex-mop-indicator-guided-reconstructed-differential-evolution-for-fixed-budget-multiobjective-optimization
   title: 'RDEx-MOP: Indicator-Guided Reconstructed Differential Evolution for Fixed-Budget
@@ -326,15 +1051,193 @@
     reason: exact_original_abstract_not_yet_verified
     source_url: https://arxiv.org/abs/2603.27089
     checked_at: '2026-08-31'
+- id: a-dual-roofline-runtime-model-for-capacity-planning-in-shared-backend-llm-multi-agent-social-simulation-a-case-study-of-agentsociety
+  title: 'A Dual-Roofline Runtime Model for Capacity Planning in Shared-Backend LLM
+    Multi-Agent Social Simulation: A Case Study of AgentSociety'
+  authors:
+  - Xiaoyang Chang
+  - Sichen Tao
+  - Masatoshi Kawai
+  - Hiroyuki Takizawa
+  author_line: Xiaoyang Chang, Sichen Tao, Masatoshi Kawai, Hiroyuki Takizawa
+  year: 2026
+  date: 2026-03
+  type: conference
+  status: published
+  venue: 2026 International Conference on Computational Intelligence and Machine Learning
+    (CIML)
+  venue_line: 2026 International Conference on Computational Intelligence and Machine
+    Learning (CIML)
+  pages: 612-616
+  publisher: IEEE
+  citations: 0
+  citation_checked_at: '2026-09-24'
+  author_role: coauthor
+  role_note: ''
+  source_group: indexed
+  source_label: Crossref and IEEE Xplore records verified
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FCIML69155.2026.11692797
+  url: https://doi.org/10.1109/CIML69155.2026.11692797
+  doi: 10.1109/CIML69155.2026.11692797
+  tags:
+  - HPC
+  metadata_source: Crossref
+  venue_url: ''
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FCIML69155.2026.11692797
+      mode: search
+      copy_text: 10.1109/CIML69155.2026.11692797
+    semantic_scholar:
+      url: https://www.semanticscholar.org/search?q=10.1109%2FCIML69155.2026.11692797
+      mode: search
+      copy_text: 10.1109/CIML69155.2026.11692797
+  selected: false
+  public: true
+  citation_authors_html: X. Chang, <em>S. Tao</em>, M. Kawai, H. Takizawa
+  publication_stage: published
+  metadata_checked_at: '2026-09-24'
+  published_date: 2026-03
+  online_date: '2026-09-22'
+  metadata_source_url: https://api.crossref.org/works/10.1109%2FCIML69155.2026.11692797
+  paper_url: https://ieeexplore.ieee.org/document/11692797
+  publisher_url: https://ieeexplore.ieee.org/document/11692797
+  metadata_gaps:
+  - field: abstract
+    reason: exact_original_abstract_not_yet_verified
+    source_url: https://api.crossref.org/works/10.1109%2FCIML69155.2026.11692797
+    checked_at: '2026-09-24'
+- id: rdex-rbf-surrogate-guided-initialization-enhancement-of-a-competition-champion-differential-evolution-baseline
+  title: 'RDEx-RBF: Surrogate-Guided Initialization Enhancement of a Competition-Champion
+    Differential Evolution Baseline'
+  authors:
+  - Sicheng Liu
+  - Hanyu Hu
+  - Jinlei Gao
+  - Xiaoxuan Zhou
+  - Sichen Tao
+  author_line: Sicheng Liu, Hanyu Hu, Jinlei Gao, Xiaoxuan Zhou, Sichen Tao
+  year: 2026
+  date: 2026-03
+  type: conference
+  status: published
+  venue: 2026 International Conference on Computational Intelligence and Machine Learning
+    (CIML)
+  venue_line: 2026 International Conference on Computational Intelligence and Machine
+    Learning (CIML)
+  pages: 608-611
+  publisher: IEEE
+  citations: 0
+  citation_checked_at: '2026-09-24'
+  author_role: coauthor
+  role_note: ''
+  source_group: indexed
+  source_label: Crossref and IEEE Xplore records verified
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FCIML69155.2026.11692733
+  url: https://doi.org/10.1109/CIML69155.2026.11692733
+  doi: 10.1109/CIML69155.2026.11692733
+  tags:
+  - Optimization
+  - Evolutionary Computation
+  metadata_source: Crossref
+  venue_url: ''
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1109%2FCIML69155.2026.11692733
+      mode: search
+      copy_text: 10.1109/CIML69155.2026.11692733
+    semantic_scholar:
+      url: https://www.semanticscholar.org/search?q=10.1109%2FCIML69155.2026.11692733
+      mode: search
+      copy_text: 10.1109/CIML69155.2026.11692733
+  selected: false
+  public: true
+  citation_authors_html: S. Liu, H. Hu, J. Gao, X. Zhou, <em>S. Tao</em>
+  publication_stage: published
+  metadata_checked_at: '2026-09-24'
+  published_date: 2026-03
+  online_date: '2026-09-22'
+  metadata_source_url: https://api.crossref.org/works/10.1109%2FCIML69155.2026.11692733
+  paper_url: https://ieeexplore.ieee.org/document/11692733
+  publisher_url: https://ieeexplore.ieee.org/document/11692733
+  metadata_gaps:
+  - field: abstract
+    reason: exact_original_abstract_not_yet_verified
+    source_url: https://api.crossref.org/works/10.1109%2FCIML69155.2026.11692733
+    checked_at: '2026-09-24'
+- id: cityscalecast-spatiotemporal-gnn-for-city-scale-weather-prediction-with-graphcast-guided-parallel-modeling-and-multi-step-forecasting-in-sendai
+  title: 'CityScaleCast: Spatiotemporal GNN for City-Scale Weather Prediction with
+    GraphCast-Guided Parallel Modeling and Multi-Step Forecasting in Sendai'
+  authors:
+  - Xuanwen Pan
+  - Yoichi Shimomura
+  - Sichen Tao
+  - Masatoshi Kawai
+  - Keichi Takahashi
+  - Hiroyuki Takizawa
+  author_line: Xuanwen Pan, Yoichi Shimomura, Sichen Tao, Masatoshi Kawai, Keichi
+    Takahashi, Hiroyuki Takizawa
+  year: 2026
+  date: '2026-01-26'
+  type: conference
+  status: published
+  venue: Proceedings of the Supercomputing Asia and International Conference on High
+    Performance Computing in Asia Pacific Region Workshops
+  venue_line: Proceedings of the Supercomputing Asia and International Conference
+    on High Performance Computing in Asia Pacific Region Workshops
+  pages: 177-185
+  publisher: ''
+  citations: 0
+  citation_checked_at: '2026-08-31'
+  author_role: coauthor
+  role_note: ''
+  source_group: cv_supplement
+  source_label: CV-only supplement not yet present in the indexed dossier snapshot
+  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1145%2F3784828.3785258
+  url: https://doi.org/10.1145/3784828.3785258
+  doi: 10.1145/3784828.3785258
+  tags:
+  - HPC
+  metadata_source: CV_SichenTao.tex
+  venue_url: https://www.sc-asia.org/2026/submit/workshops.html
+  citation_sources:
+    google_scholar:
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1145%2F3784828.3785258
+      mode: search
+      copy_text: 10.1145/3784828.3785258
+    openalex:
+      url: https://openalex.org/W7125422647
+      mode: direct
+      copy_text: ''
+    semantic_scholar:
+      url: https://www.semanticscholar.org/paper/495a118f39599526a2b6538cb1edfb48ed5159c6
+      mode: direct
+      copy_text: ''
+  selected: false
+  public: true
+  citation_authors_html: X. Pan, Y. Shimomura, <em>S. Tao</em>, M. Kawai, K. Takahashi,
+    H. Takizawa
+  publication_stage: published
+  metadata_checked_at: '2026-08-31'
+  published_date: '2026-01-26'
+  metadata_source_url: https://api.crossref.org/works/10.1145%2F3784828.3785258
+  online_date: '2026-01-25'
+  paper_url: https://dl.acm.org/doi/10.1145/3784828.3785258
+  publisher_url: https://dl.acm.org/doi/10.1145/3784828.3785258
+  metadata_gaps:
+  - field: abstract
+    reason: exact_original_abstract_not_yet_verified
+    source_url: https://api.crossref.org/works/10.1145%2F3784828.3785258
+    checked_at: '2026-08-31'
 - id: relu-neural-networks-and-their-training
   title: ReLU Neural Networks and Their Training
   authors:
   - Ge Luo
-  - X. G. Wang
+  - Xugang Wang
   - Weizun Zhao
   - Sichen Tao
   - Zheng Tang
-  author_line: Ge Luo, X. G. Wang, Weizun Zhao, Sichen Tao, Zheng Tang
+  author_line: Ge Luo, Xugang Wang, Weizun Zhao, Sichen Tao, Zheng Tang
   year: 2026
   date: '2026'
   type: journal
@@ -420,7 +1323,7 @@
   - Sichen Tao
   corresponding_author_source_url: https://www.mdpi.com/2227-7390/14/1/39
   corresponding_authors_verified_at: '2026-08-31'
-  citation_authors_html: G. Luo, X. G. Wang, W. Zhao, <em>S. Tao*</em>, Z. Tang
+  citation_authors_html: G. Luo, X. Wang, W. Zhao, <em>S. Tao*</em>, Z. Tang
   publication_stage: published
   metadata_checked_at: '2026-08-31'
   published_date: '2025-12-22'
@@ -436,217 +1339,6 @@
   - field: citescore
     reason: official_historical_metric_not_verified
     source_url: https://api.crossref.org/works/10.3390%2Fmath14010039
-    checked_at: '2026-08-31'
-- id: cityscalecast-spatiotemporal-gnn-for-city-scale-weather-prediction-with-graphcast-guided-parallel-modeling-and-multi-step-forecasting-in-sendai
-  title: 'CityScaleCast: Spatiotemporal GNN for City-Scale Weather Prediction with
-    GraphCast-Guided Parallel Modeling and Multi-Step Forecasting in Sendai'
-  authors:
-  - Xiang Pan
-  - Yoichi Shimomura
-  - Sichen Tao
-  - Masatoshi Kawai
-  - Keichi Takahashi
-  - Hiroyuki Takizawa
-  author_line: Xiang Pan, Yoichi Shimomura, Sichen Tao, Masatoshi Kawai, Keichi Takahashi,
-    Hiroyuki Takizawa
-  year: 2026
-  date: '2026-01-26'
-  type: conference
-  status: published
-  venue: Proceedings of the Supercomputing Asia and International Conference on High
-    Performance Computing in Asia Pacific Region Workshops
-  venue_line: Proceedings of the Supercomputing Asia and International Conference
-    on High Performance Computing in Asia Pacific Region Workshops
-  pages: 177-185
-  publisher: ''
-  citations: 0
-  citation_checked_at: '2026-08-31'
-  author_role: coauthor
-  role_note: ''
-  source_group: cv_supplement
-  source_label: CV-only supplement not yet present in the indexed dossier snapshot
-  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1145%2F3784828.3785258
-  url: https://doi.org/10.1145/3784828.3785258
-  doi: 10.1145/3784828.3785258
-  tags:
-  - HPC
-  metadata_source: CV_SichenTao.tex
-  venue_url: https://www.sc-asia.org/2026/submit/workshops.html
-  citation_sources:
-    google_scholar:
-      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1145%2F3784828.3785258
-      mode: search
-      copy_text: 10.1145/3784828.3785258
-    openalex:
-      url: https://openalex.org/W7125422647
-      mode: direct
-      copy_text: ''
-    semantic_scholar:
-      url: https://www.semanticscholar.org/paper/495a118f39599526a2b6538cb1edfb48ed5159c6
-      mode: direct
-      copy_text: ''
-  selected: false
-  public: true
-  citation_authors_html: X. Pan, Y. Shimomura, <em>S. Tao</em>, M. Kawai, K. Takahashi,
-    H. Takizawa
-  publication_stage: published
-  metadata_checked_at: '2026-08-31'
-  published_date: '2026-01-26'
-  metadata_source_url: https://api.crossref.org/works/10.1145%2F3784828.3785258
-  online_date: '2026-01-25'
-  paper_url: https://dl.acm.org/doi/10.1145/3784828.3785258
-  publisher_url: https://dl.acm.org/doi/10.1145/3784828.3785258
-  metadata_gaps:
-  - field: abstract
-    reason: exact_original_abstract_not_yet_verified
-    source_url: https://api.crossref.org/works/10.1145%2F3784828.3785258
-    checked_at: '2026-08-31'
-- id: adversarial-game-optimization-a-game-theoretic-metaheuristic-for-efficient-complex-optimization-and-engineering-applications
-  title: 'Adversarial game optimization: A game-theoretic metaheuristic for efficient
-    complex optimization and engineering applications'
-  authors:
-  - Conglin Li
-  - Qingke Zhang
-  - Junqing Li
-  - Sichen Tao
-  - Diego Oliva
-  author_line: Conglin Li, Qingke Zhang, Junqing Li, Sichen Tao, Diego Oliva
-  year: 2026
-  date: 2026-04
-  type: journal
-  status: published
-  venue: Information Sciences
-  venue_line: Information Sciences
-  venue_abbr: INS
-  abstract: 'Metaheuristic optimization algorithms have demonstrated strong performance
-    when applied to complex nonlinear optimization tasks. However, their performance
-    often degrades in high-dimensional and multimodal settings due to premature convergence
-    and insufficient global search. To address these limitations, an Adversarial Game
-    Optimization Algorithm (AGOA) is proposed, which constructs a metaheuristic optimization
-    framework based on adversarial game mechanisms. AGOA integrates three mechanisms:
-    (i) a dynamic role-based population partitioning strategy that assigns individuals
-    as elites, explorers, or responders to balance exploration and exploitation; (ii)
-    an adversarial feedback mechanism where worst-case responders introduce directed
-    perturbations to counter elite dominance; and (iii) a diversity-preserving breakout
-    strategy that monitors population stagnation and activates adaptive restarts.
-    AGOA was tested on CEC 2017 (30D/50D/100D) and CEC 2022 (10D/20D), as well as
-    applications including multi-threshold image segmentation, constrained engineering
-    design, and UAV 3D path planning. Experimental evaluations indicate that AGOA
-    achieves superior performance compared with 79 optimizers in solution quality,
-    convergence behavior, and stability, achieving top rankings across all test categories.
-    Theoretical analysis further establishes convergence to the global optimum in
-    expectation and probability under mild conditions. Overall, AGOA offers a scalable
-    and generalizable optimization framework with strong practical relevance. An open-access
-    implementation of AGOA is provided at https://github.com/tsingke/AGOA.'
-  abstract_source_url: https://www.sciencedirect.com/science/article/pii/S0020025525011594
-  abstract_verified_at: '2026-08-31'
-  corresponding_authors:
-  - Qingke Zhang
-  corresponding_author_source_url: https://www.sciencedirect.com/science/article/pii/S0020025525011594
-  corresponding_authors_verified_at: '2026-08-31'
-  volume: '735'
-  publisher: Elsevier BV
-  citations: 0
-  citation_checked_at: '2026-08-31'
-  author_role: coauthor
-  role_note: ''
-  source_group: indexed
-  source_label: Google Scholar indexed record normalized in the public dossier
-  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.ins.2025.123022
-  url: https://doi.org/10.1016/j.ins.2025.123022
-  doi: 10.1016/j.ins.2025.123022
-  code_url: https://github.com/tsingke/AGOA
-  tags:
-  - Optimization
-  metadata_source: Crossref
-  publisher_url: https://www.sciencedirect.com/science/article/pii/S0020025525011594
-  verification:
-    doi: 10.1016/j.ins.2025.123022
-    url: https://doi.org/10.1016/j.ins.2025.123022
-    publisher_url: https://doi.org/10.1016/j.ins.2025.123022
-    accepted_date: ''
-    published_date: '2026-04-01'
-    crossref_created_date: '2025-12-20'
-    metric_anchor_date: '2025-12-20'
-    metric_anchor_kind: crossref_created_date
-    metric_basis: publication_year_or_latest_verified_historical_metrics
-    verification_status: publisher_record_verified_no_public_acceptance_date
-    if_value: 6.8
-    if_year: 2024
-    jcr_quartile: Q1
-    jcr_year: 2024
-    jcr_top_10: true
-    citescore: 14.4
-    citescore_year: 2024
-    citescore_source_url: https://journalrank.rcsi.science/ru/record-sources/indicators/8931/
-    metrics_verified_at: '2026-08-31'
-    cas_quartile: Q1
-    cas_year: 2025
-    cas_top: true
-    cas_top_year: 2025
-    if_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INFORM%20SCI&year=2024&fromPage=%2Fjcr%2Fhome
-    if_source_mode: official_profile_fallback
-    if_source_official_year: 2024
-    if_search_copy_text: Information Sciences
-    if_public_source_url: https://www.sciencedirect.com/journal/information-sciences
-    cas_source_url: https://www.fabiao.com.cn/sci/00200255/
-    cas_public_source_url: https://www.fabiao.com.cn/sci/00200255/
-    cas_official_source_url: https://www.fenqubiao.com/
-    cas_source_mode: official_search
-    cas_search_copy_text: Information Sciences
-    jcr_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INFORM%20SCI&year=2024&fromPage=%2Fjcr%2Fhome
-    jcr_source_mode: official_profile_fallback
-    jcr_source_official_year: 2024
-    jcr_search_copy_text: Information Sciences
-    jcr_public_source_url: https://jrank.net/journals/inform-sciences/metrics
-    if_supporting_source_url: https://www.sciencedirect.com/journal/information-sciences
-    cas_supporting_source_url: https://www.fabiao.com.cn/sci/00200255/
-    jcr_supporting_source_url: https://jrank.net/journals/inform-sciences/metrics
-    clarivate_official_source_url: https://jcr.clarivate.com/jcr-jp/journal-profile?journal=INFORM%20SCI&year=2024&fromPage=%2Fjcr%2Fhome
-    clarivate_official_year: 2024
-    cas_official_platform_url: https://www.fenqubiao.com/
-    cas_official_help_url: https://www.fenqubiao.com/User/Help.aspx
-    metrics_note: 2024 JCR Q1 · 2024 IF 6.8 · 2024 CiteScore 14.4
-  venue_url: https://www.sciencedirect.com/journal/information-sciences
-  citation_sources:
-    google_scholar:
-      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=10.1016%2Fj.ins.2025.123022
-      mode: search
-      copy_text: 10.1016/j.ins.2025.123022
-    openalex:
-      url: https://openalex.org/W7116359479
-      mode: direct
-      copy_text: ''
-    semantic_scholar:
-      url: https://www.semanticscholar.org/paper/001eca53b66e9e8c5d443916ffad825e2f8e2fdf
-      mode: direct
-      copy_text: ''
-  ccf:
-    class: B
-    year: 2022
-    source_url: "/assets/docs/official/ccf_recommended_venues_2022_official.pdf"
-    supporting_url: "/assets/docs/official/ccf_recommended_venues_portal_official.html"
-  selected: true
-  public: true
-  citation_authors_html: C. Li, Q. Zhang*, J. Li, <em>S. Tao</em>, D. Oliva
-  preview: "/assets/img/publication_preview/adversarial-game-optimization-fig1.jpg"
-  preview_alt: 'Figure 1 from the paper: dynamic role-based adversarial game optimization
-    framework'
-  preview_source_url: https://www.sciencedirect.com/science/article/pii/S0020025525011594
-  publication_stage: published
-  metadata_checked_at: '2026-08-31'
-  artifacts:
-  - type: code
-    label: Code
-    url: https://github.com/tsingke/AGOA
-  published_date: '2026-04-01'
-  article_number: '123022'
-  metadata_source_url: https://api.crossref.org/works/10.1016%2Fj.ins.2025.123022
-  paper_url: https://www.sciencedirect.com/science/article/pii/S0020025525011594
-  metadata_gaps:
-  - field: issue
-    reason: journal_does_not_assign_or_official_record_omits_issue
-    source_url: https://api.crossref.org/works/10.1016%2Fj.ins.2025.123022
     checked_at: '2026-08-31'
 - id: unleashing-the-inherent-potential-of-differential-evolution-using-nonlinear-population-size-reduction-for-wind-farm-layout-optimization
   title: Unleashing the Inherent Potential of Differential Evolution Using Nonlinear
@@ -1292,13 +1984,13 @@
     Global Optimization
   authors:
   - Qingke Zhang
-  - Wei Chen
-  - Shilin Pang
+  - Wenliang Chen
+  - Shuzhao Pang
   - Sichen Tao
   - Conglin Li
-  - Xiaoping Yin
-  author_line: Qingke Zhang, Wei Chen, Shilin Pang, Sichen Tao, Conglin Li, Xiaoping
-    Yin
+  - Xin Yin
+  author_line: Qingke Zhang, Wenliang Chen, Shuzhao Pang, Sichen Tao, Conglin Li,
+    Xin Yin
   year: 2025
   date: 2025-11
   type: journal
@@ -1380,8 +2072,8 @@
   ccf:
     class: B
     year: 2022
-    source_url: "/assets/docs/official/ccf_recommended_venues_2022_official.pdf"
-    supporting_url: "/assets/docs/official/ccf_recommended_venues_portal_official.html"
+    source_url: /assets/docs/official/ccf_recommended_venues_2022_official.pdf
+    supporting_url: /assets/docs/official/ccf_recommended_venues_portal_official.html
   selected: false
   public: true
   citation_authors_html: Q. Zhang, W. Chen, S. Pang, <em>S. Tao</em>, C. Li, X. Yin
@@ -1686,59 +2378,6 @@
     reason: official_historical_metric_not_verified
     source_url: https://api.crossref.org/works/10.1038%2Fs41598-025-94734-3
     checked_at: '2026-08-31'
-- id: adaptive-product-family-formation-a-medoid-based-fuzzy-clustering-method-for-mixed-products-assembly-in-the-shared-human-robot-collaborative-system
-  title: 'Adaptive product family formation: A medoid-based fuzzy clustering method
-    for mixed products assembly in the shared human-robot collaborative system'
-  authors:
-  - Ruihan Zhao
-  - Sichen Tao
-  - Pengzhong Li
-  author_line: Ruihan Zhao, Sichen Tao, Pengzhong Li
-  year: 2025
-  date: '2025'
-  type: journal
-  status: under_review
-  venue: Applied Soft Computing
-  venue_line: Applied Soft Computing
-  volume: ''
-  issue: ''
-  pages: ''
-  publisher: ''
-  citations: 0
-  citation_checked_at: '2026-08-31'
-  author_role: coauthor
-  role_note: ''
-  source_group: cv_supplement
-  source_label: CV-only supplement not yet present in the indexed dossier snapshot
-  citation_source_url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22Adaptive+product+family+formation%3A+A+medoid-based+fuzzy+clustering+method+for+mixed+products+assembly+in+the+shared+human-robot+collaborative+system%22
-  url: https://www.sciencedirect.com/journal/applied-soft-computing
-  doi: ''
-  tags:
-  - Human-Robot
-  metadata_source: CV_SichenTao.tex
-  venue_url: https://www.sciencedirect.com/journal/applied-soft-computing
-  citation_sources:
-    google_scholar:
-      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22Adaptive+product+family+formation%3A+A+medoid-based+fuzzy+clustering+method+for+mixed+products+assembly+in+the+shared+human-robot+collaborative+system%22
-      mode: search
-      copy_text: 'Adaptive product family formation: A medoid-based fuzzy clustering
-        method for mixed products assembly in the shared human-robot collaborative
-        system'
-    openalex:
-      url: https://openalex.org/works?search=%22Adaptive+product+family+formation%3A+A+medoid-based+fuzzy+clustering+method+for+mixed+products+assembly+in+the+shared+human-robot+collaborative+system%22
-      mode: search
-      copy_text: 'Adaptive product family formation: A medoid-based fuzzy clustering
-        method for mixed products assembly in the shared human-robot collaborative
-        system'
-    semantic_scholar:
-      url: https://www.semanticscholar.org/search?q=%22Adaptive+product+family+formation%3A+A+medoid-based+fuzzy+clustering+method+for+mixed+products+assembly+in+the+shared+human-robot+collaborative+system%22
-      mode: search
-      copy_text: 'Adaptive product family formation: A medoid-based fuzzy clustering
-        method for mixed products assembly in the shared human-robot collaborative
-        system'
-  selected: false
-  public: false
-  citation_authors_html: R. Zhao, <em>S. Tao</em>, P. Li
 - id: a-state-of-the-art-fractional-order-driven-differential-evolution-for-wind-farm-layout-optimization
   title: A State-of-the-Art Fractional Order-Driven Differential Evolution for Wind
     Farm Layout Optimization
@@ -1858,12 +2497,12 @@
   title: A Reinforcement Learning-Assisted Fractional-Order Differential Evolution
     for Solving Wind Farm Layout Optimization Problems
   authors:
-  - Yufei Wang
+  - Yiliang Wang
   - Yifei Yang
   - Sichen Tao
   - Lianzhi Qi
   - Hao Shen
-  author_line: Yufei Wang, Yifei Yang, Sichen Tao, Lianzhi Qi, Hao Shen
+  author_line: Yiliang Wang, Yifei Yang, Sichen Tao, Lianzhi Qi, Hao Shen
   year: 2025
   date: '2025'
   type: journal
@@ -1973,11 +2612,11 @@
   authors:
   - Sichen Tao
   - Sicheng Liu
-  - Shinichi Ohta
+  - Shoya Ohta
   - Ruihan Zhao
   - Zheng Tang
   - Yifei Yang
-  author_line: Sichen Tao, Sicheng Liu, Shinichi Ohta, Ruihan Zhao, Zheng Tang, Yifei
+  author_line: Sichen Tao, Sicheng Liu, Shoya Ohta, Ruihan Zhao, Zheng Tang, Yifei
     Yang
   year: 2025
   date: '2025'
@@ -2063,8 +2702,7 @@
   - Sichen Tao
   corresponding_author_source_url: https://www.mdpi.com/2227-7390/13/9/1389
   corresponding_authors_verified_at: '2026-08-31'
-  citation_authors_html: "<em>S. Tao*</em>, S. Liu, S. Ohta, R. Zhao, Z. Tang, Y.
-    Yang"
+  citation_authors_html: <em>S. Tao*</em>, S. Liu, S. Ohta, R. Zhao, Z. Tang, Y. Yang
   publication_stage: published
   metadata_checked_at: '2026-08-31'
   published_date: '2025-04-24'

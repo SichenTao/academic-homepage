@@ -1,3 +1,10 @@
+- date: "2026-10-27"
+  type: Invited Talk
+  title: "FireDucks on Arm for Accelerating pandas: An Independent Evaluation of Performance and Compatibility"
+  event: The 42nd Workshop on Sustained Simulation Performance (WSSP42)
+  host: Cyberscience Center, Tohoku University
+  location: Sendai, Japan
+  description: Presentation delivered on October 27, 2026, during the workshop held on October 27-28, 2026.
 - date: "2026-05-18"
   type: Invited Talk
   title: Simulation Runtime Prediction in AI-Agent Society for Tsunami Evacuation

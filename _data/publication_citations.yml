@@ -1,20 +1,21 @@
 ---
 a-fractional-order-gradient-guided-dynamic-block-coordinate-evolution-strategy-for-large-scale-expensive-optimization:
-  ieee: H. Hu, J. Wang, Z. Sun, S. Tao, J. Mańdziuk, and N. R. Pal, “A Fractional-Order
+  ieee: 'H. Hu, J. Wang, Z. Sun, S. Tao, J. Mańdziuk, and N. R. Pal, “A Fractional-Order
     Gradient Guided Dynamic Block-Coordinate Evolution Strategy for Large-Scale Expensive
-    Optimization,” IEEE Transactions on Evolutionary Computation, accepted for publication,
-    2026.
+    Optimization,” IEEE Transactions on Evolutionary Computation, early access, 2026,
+    doi: 10.1109/TEVC.2026.3731524.'
   nature: Hu, H. et al. A Fractional-Order Gradient Guided Dynamic Block-Coordinate
-    Evolution Strategy for Large-Scale Expensive Optimization. IEEE Trans. Evol. Comput.,
-    in press (2026).
+    Evolution Strategy for Large-Scale Expensive Optimization. IEEE Trans. Evol. Comput.
+    https://doi.org/10.1109/TEVC.2026.3731524 (2026).
   bibtex: |-
     @article{hu2026fractional,
       title = {A Fractional-Order Gradient Guided Dynamic Block-Coordinate Evolution Strategy for Large-Scale Expensive Optimization},
       author = {Hu, Hanyu and Wang, Jian and Sun, Zhilei and Tao, Sichen and Ma{\'n}dziuk, Jacek and Pal, Nikhil R.},
       year = {2026},
       journal = {IEEE Transactions on Evolutionary Computation},
-      url = {https://cis.ieee.org/publications/t-evolutionary-computation},
-      status = {accepted},
+      doi = {10.1109/TEVC.2026.3731524},
+      url = {https://ieeexplore.ieee.org/document/11683643},
+      status = {published},
       selected = {true},
       public = {true},
       authorrole = {coauthor},
@@ -22,6 +23,148 @@ a-fractional-order-gradient-guided-dynamic-block-coordinate-evolution-strategy-f
       corresponding = {Wang, Jian and Tao, Sichen},
       abstract = {Large-scale expensive optimization problems present a formidable challenge characterized by high-dimensional search spaces constrained by strictly limited evaluation budgets. Although surrogate-assisted evolutionary algorithms (SAEAs) have been widely adopted to mitigate evaluation costs, they often grapple with the prohibitive computational overhead of model training and the deterioration of surrogate accuracy as dimensionality increases. To address these limitations, this work proposes a Fractional-Order Block-Coordinate Evolution Strategy (FOBES) for LSEOPs, which departs from the conventional paradigm of fitness prediction. Instead of relying on complex surrogate models, the proposed method uses fractional-order gradient memory to extract and accumulate directional information from historical evaluations. This estimated ideal direction guides a novel directional consistency pre-screening mechanism, enabling efficient identification of promising candidate solutions within a block-coordinate descent framework. Furthermore, a dynamic random grouping strategy and an adaptive data-driven sampling technique are dynamically integrated to facilitate a smooth transition from exploration to exploitation. Experimental results on the CEC’2013 benchmark suite and the extended CEC’2010 suite with up to 5000 dimensions demonstrate that FOBES significantly outperforms state-of-the-art algorithms in terms of both solution quality and computational efficiency.},
       preview = {fobes-framework-fig2.jpg}
+    }
+? adaptive-product-family-formation-a-medoid-based-fuzzy-clustering-method-for-mixed-product-assembly-in-the-shared-human-robot-collaborative-system
+: ieee: 'R. Zhao, S. Tao, Y. Zhou, X. Zhang, and P. Li, “Adaptive product family formation:
+    A medoid-based fuzzy clustering method for mixed product assembly in the shared
+    human–robot collaborative system,” Applied Soft Computing, vol. 200, Art. no.
+    115419, 2026, doi: 10.1016/j.asoc.2026.115419.'
+  nature: 'Zhao, R., Tao, S., Zhou, Y., Zhang, X. & Li, P. Adaptive product family
+    formation: A medoid-based fuzzy clustering method for mixed product assembly in
+    the shared human–robot collaborative system. Appl. Soft Comput. 200, 115419 (2026).'
+  bibtex: |-
+    @article{zhao2026adaptive,
+      title = {Adaptive product family formation: A medoid-based fuzzy clustering method for mixed product assembly in the shared human–robot collaborative system},
+      author = {Zhao, Ruihan and Tao, Sichen and Zhou, Yangzheng and Zhang, Xinyang and Li, Pengzhong},
+      year = {2026},
+      journal = {Applied Soft Computing},
+      volume = {200},
+      pages = {115419},
+      publisher = {Elsevier BV},
+      doi = {10.1016/j.asoc.2026.115419},
+      url = {https://www.sciencedirect.com/science/article/pii/S1568494626008677},
+      status = {published},
+      selected = {false},
+      public = {true},
+      authorrole = {coauthor}
+    }
+a-level-direction-guided-hierarchical-particle-swarm-optimization-for-wind-farm-layout-optimization:
+  ieee: 'T. Zheng, S. Tao, W. Gu, Z. Lei, and S. Gao, “A Level-Direction Guided Hierarchical
+    Particle Swarm Optimization for Wind Farm Layout Optimization,” Tsinghua Science
+    and Technology, 2026, doi: 10.26599/TST.2026.9010059.'
+  nature: Zheng, T., Tao, S., Gu, W., Lei, Z. & Gao, S. A Level-Direction Guided Hierarchical
+    Particle Swarm Optimization for Wind Farm Layout Optimization. Tsinghua Sci. Technol.
+    https://doi.org/10.26599/TST.2026.9010059 (2026).
+  bibtex: |-
+    @article{zheng2026level,
+      title = {A Level-Direction Guided Hierarchical Particle Swarm Optimization for Wind Farm Layout Optimization},
+      author = {Zheng, Tao and Tao, Sichen and Gu, Wenzhu and Lei, Zhenyu and Gao, Shangce},
+      year = {2026},
+      journal = {Tsinghua Science and Technology},
+      publisher = {Tsinghua University Press},
+      doi = {10.26599/TST.2026.9010059},
+      url = {https://www.sciopen.com/article/10.26599/TST.2026.9010059},
+      status = {published},
+      selected = {false},
+      public = {true},
+      authorrole = {coauthor},
+      corresponding = {Gao, Shangce}
+    }
+fo-moea-d-p-fractional-order-probability-guided-decomposition-for-smart-three-objective-wind-farm-layout-optimization:
+  ieee: 'J. Gao, S. Tao, R. Zhao, H. Hu, Q. Zhang, and S. Liu, “FO-MOEA/D-P: Fractional-Order
+    Probability-Guided Decomposition for Smart Three-Objective Wind Farm Layout Optimization,”
+    in 2026 2nd International Conference on Communication Networks and Smart Systems
+    Engineering (ICCNSE), pp. 131-136, 2026, doi: 10.1109/ICCNSE70788.2026.11636107.'
+  nature: 'Gao, J. et al. FO-MOEA/D-P: Fractional-Order Probability-Guided Decomposition
+    for Smart Three-Objective Wind Farm Layout Optimization. In 2026 2nd International
+    Conference on Communication Networks and Smart Systems Engineering (ICCNSE), 131–136
+    (2026).'
+  bibtex: |-
+    @inproceedings{gao2026fomoeadp,
+      title = {FO-MOEA/D-P: Fractional-Order Probability-Guided Decomposition for Smart Three-Objective Wind Farm Layout Optimization},
+      author = {Gao, Jinlei and Tao, Sichen and Zhao, Ruihan and Hu, Hanyu and Zhang, Qingke and Liu, Sicheng},
+      year = {2026},
+      booktitle = {2026 2nd International Conference on Communication Networks and Smart Systems Engineering (ICCNSE)},
+      pages = {131-136},
+      publisher = {IEEE},
+      doi = {10.1109/ICCNSE70788.2026.11636107},
+      url = {https://ieeexplore.ieee.org/document/11636107},
+      status = {published},
+      selected = {false},
+      public = {true},
+      authorrole = {coauthor}
+    }
+? key-profiling-driven-heuristic-machine-learning-predictor-for-mapping-strategy-selection-in-heterogeneous-multi-core-numa-systems
+: ieee: 'Y. Jin, S. Tao, M. Agung, M. Kawai, and H. Takizawa, “Key Profiling-Driven
+    Heuristic Machine Learning Predictor for Mapping Strategy Selection in Heterogeneous
+    Multi-Core NUMA Systems,” in 2026 IEEE Symposium on Low-Power and High-Speed Chips
+    and Systems (COOL CHIPS), pp. 1-6, 2026, doi: 10.1109/COOLCHIPS68842.2026.11557040.'
+  nature: Jin, Y., Tao, S., Agung, M., Kawai, M. & Takizawa, H. Key Profiling-Driven
+    Heuristic Machine Learning Predictor for Mapping Strategy Selection in Heterogeneous
+    Multi-Core NUMA Systems. In 2026 IEEE Symposium on Low-Power and High-Speed Chips
+    and Systems (COOL CHIPS), 1–6 (2026).
+  bibtex: |-
+    @inproceedings{jin2026key,
+      title = {Key Profiling-Driven Heuristic Machine Learning Predictor for Mapping Strategy Selection in Heterogeneous Multi-Core NUMA Systems},
+      author = {Jin, Yifan and Tao, Sichen and Agung, Mulya and Kawai, Masatoshi and Takizawa, Hiroyuki},
+      year = {2026},
+      booktitle = {2026 IEEE Symposium on Low-Power and High-Speed Chips and Systems (COOL CHIPS)},
+      pages = {1-6},
+      publisher = {IEEE},
+      doi = {10.1109/COOLCHIPS68842.2026.11557040},
+      url = {https://ieeexplore.ieee.org/document/11557040},
+      status = {published},
+      selected = {false},
+      public = {true},
+      authorrole = {coauthor}
+    }
+? a-dual-roofline-runtime-model-for-capacity-planning-in-shared-backend-llm-multi-agent-social-simulation-a-case-study-of-agentsociety
+: ieee: 'X. Chang, S. Tao, M. Kawai, and H. Takizawa, “A Dual-Roofline Runtime Model
+    for Capacity Planning in Shared-Backend LLM Multi-Agent Social Simulation: A Case
+    Study of AgentSociety,” in 2026 International Conference on Computational Intelligence
+    and Machine Learning (CIML), pp. 612-616, 2026, doi: 10.1109/CIML69155.2026.11692797.'
+  nature: 'Chang, X., Tao, S., Kawai, M. & Takizawa, H. A Dual-Roofline Runtime Model
+    for Capacity Planning in Shared-Backend LLM Multi-Agent Social Simulation: A Case
+    Study of AgentSociety. In 2026 International Conference on Computational Intelligence
+    and Machine Learning (CIML), 612–616 (2026).'
+  bibtex: |-
+    @inproceedings{chang2026dual,
+      title = {A Dual-Roofline Runtime Model for Capacity Planning in Shared-Backend LLM Multi-Agent Social Simulation: A Case Study of AgentSociety},
+      author = {Chang, Xiaoyang and Tao, Sichen and Kawai, Masatoshi and Takizawa, Hiroyuki},
+      year = {2026},
+      booktitle = {2026 International Conference on Computational Intelligence and Machine Learning (CIML)},
+      pages = {612-616},
+      publisher = {IEEE},
+      doi = {10.1109/CIML69155.2026.11692797},
+      url = {https://ieeexplore.ieee.org/document/11692797},
+      status = {published},
+      selected = {false},
+      public = {true},
+      authorrole = {coauthor}
+    }
+rdex-rbf-surrogate-guided-initialization-enhancement-of-a-competition-champion-differential-evolution-baseline:
+  ieee: 'S. Liu, H. Hu, J. Gao, X. Zhou, and S. Tao, “RDEx-RBF: Surrogate-Guided Initialization
+    Enhancement of a Competition-Champion Differential Evolution Baseline,” in 2026
+    International Conference on Computational Intelligence and Machine Learning (CIML),
+    pp. 608-611, 2026, doi: 10.1109/CIML69155.2026.11692733.'
+  nature: 'Liu, S., Hu, H., Gao, J., Zhou, X. & Tao, S. RDEx-RBF: Surrogate-Guided
+    Initialization Enhancement of a Competition-Champion Differential Evolution Baseline.
+    In 2026 International Conference on Computational Intelligence and Machine Learning
+    (CIML), 608–611 (2026).'
+  bibtex: |-
+    @inproceedings{liu2026rdexrbf,
+      title = {RDEx-RBF: Surrogate-Guided Initialization Enhancement of a Competition-Champion Differential Evolution Baseline},
+      author = {Liu, Sicheng and Hu, Hanyu and Gao, Jinlei and Zhou, Xiaoxuan and Tao, Sichen},
+      year = {2026},
+      booktitle = {2026 International Conference on Computational Intelligence and Machine Learning (CIML)},
+      pages = {608-611},
+      publisher = {IEEE},
+      doi = {10.1109/CIML69155.2026.11692733},
+      url = {https://ieeexplore.ieee.org/document/11692733},
+      status = {published},
+      selected = {false},
+      public = {true},
+      authorrole = {coauthor}
     }
 rdex-cmop-feasibility-aware-indicator-guided-differential-evolution-for-fixed-budget-constrained-multiobjective-optimization:
   ieee: 'S. Tao, Y. Yang, R. Zhao, K. Wang, S. Liu, and S. Gao, “RDEx-CMOP: Feasibility-Aware
@@ -108,14 +251,14 @@ rdex-csop-feasibility-aware-reconstructed-differential-evolution-with-adaptive-e
       authorrole = {first\_author}
     }
 relu-neural-networks-and-their-training:
-  ieee: 'G. Luo, X. G. Wang, W. Zhao, S. Tao, and Z. Tang, “ReLU Neural Networks and
+  ieee: 'G. Luo, X. Wang, W. Zhao, S. Tao, and Z. Tang, “ReLU Neural Networks and
     Their Training,” Mathematics, vol. 14, no. 1, Art. no. 39, 2026, doi: 10.3390/math14010039.'
-  nature: Luo, G., Wang, X. G., Zhao, W., Tao, S. & Tang, Z. ReLU Neural Networks
-    and Their Training. Mathematics 14, 39 (2026).
+  nature: Luo, G., Wang, X., Zhao, W., Tao, S. & Tang, Z. ReLU Neural Networks and
+    Their Training. Mathematics 14, 39 (2026).
   bibtex: |-
     @article{luo2026relu,
       title = {ReLU Neural Networks and Their Training},
-      author = {Luo, Ge and Wang, X. G. and Zhao, Weizun and Tao, Sichen and Tang, Zheng},
+      author = {Luo, Ge and Wang, Xugang and Zhao, Weizun and Tao, Sichen and Tang, Zheng},
       year = {2026},
       journal = {Mathematics},
       volume = {14},
@@ -143,7 +286,7 @@ relu-neural-networks-and-their-training:
   bibtex: |-
     @inproceedings{pan2026cityscalecast,
       title = {CityScaleCast: Spatiotemporal GNN for City-Scale Weather Prediction with GraphCast-Guided Parallel Modeling and Multi-Step Forecasting in Sendai},
-      author = {Pan, Xiang and Shimomura, Yoichi and Tao, Sichen and Kawai, Masatoshi and Takahashi, Keichi and Takizawa, Hiroyuki},
+      author = {Pan, Xuanwen and Shimomura, Yoichi and Tao, Sichen and Kawai, Masatoshi and Takahashi, Keichi and Takizawa, Hiroyuki},
       year = {2026},
       booktitle = {Proceedings of the Supercomputing Asia and International Conference on High Performance Computing in Asia Pacific Region Workshops},
       pages = {177-185},
@@ -294,7 +437,7 @@ gpu-cuda-accelerated-gradient-growth-optimizer-for-efficient-complex-numerical-g
   bibtex: |-
     @article{zhang2025cuda,
       title = {GPU/CUDA-Accelerated Gradient Growth Optimizer for Efficient Complex Numerical Global Optimization},
-      author = {Zhang, Qingke and Chen, Wei and Pang, Shilin and Tao, Sichen and Li, Conglin and Yin, Xiaoping},
+      author = {Zhang, Qingke and Chen, Wenliang and Pang, Shuzhao and Tao, Sichen and Li, Conglin and Yin, Xin},
       year = {2025},
       journal = {Parallel Computing},
       volume = {126},
@@ -379,8 +522,8 @@ a-state-of-the-art-fractional-order-driven-differential-evolution-for-wind-farm-
       authorrole = {corresponding\_author},
       corresponding = {Tao, Sichen}
     }
-a-reinforcement-learning-assisted-fractional-order-differential-evolution-for-solving-wind-farm-layout-optimization-problems:
-  ieee: 'Y. Wang, Y. Yang, S. Tao, L. Qi, and H. Shen, “A Reinforcement Learning-Assisted
+? a-reinforcement-learning-assisted-fractional-order-differential-evolution-for-solving-wind-farm-layout-optimization-problems
+: ieee: 'Y. Wang, Y. Yang, S. Tao, L. Qi, and H. Shen, “A Reinforcement Learning-Assisted
     Fractional-Order Differential Evolution for Solving Wind Farm Layout Optimization
     Problems,” Mathematics, vol. 13, no. 18, Art. no. 2935, 2025, doi: 10.3390/math13182935.'
   nature: Wang, Y., Yang, Y., Tao, S., Qi, L. & Shen, H. A Reinforcement Learning-Assisted
@@ -389,7 +532,7 @@ a-reinforcement-learning-assisted-fractional-order-differential-evolution-for-so
   bibtex: |-
     @article{wang2025reinforcement,
       title = {A Reinforcement Learning-Assisted Fractional-Order Differential Evolution for Solving Wind Farm Layout Optimization Problems},
-      author = {Wang, Yufei and Yang, Yifei and Tao, Sichen and Qi, Lianzhi and Shen, Hao},
+      author = {Wang, Yiliang and Yang, Yifei and Tao, Sichen and Qi, Lianzhi and Shen, Hao},
       year = {2025},
       journal = {Mathematics},
       volume = {13},
@@ -415,7 +558,7 @@ a-reinforcement-learning-assisted-fractional-order-differential-evolution-for-so
   bibtex: |-
     @article{tao2025novel,
       title = {A Novel Detection-and-Replacement-Based Order-Operator for Differential Evolution in Solving Complex Bound Constrained Optimization Problems},
-      author = {Tao, Sichen and Liu, Sicheng and Ohta, Shinichi and Zhao, Ruihan and Tang, Zheng and Yang, Yifei},
+      author = {Tao, Sichen and Liu, Sicheng and Ohta, Shoya and Zhao, Ruihan and Tang, Zheng and Yang, Yifei},
       year = {2025},
       journal = {Mathematics},
       volume = {13},
@@ -1217,3 +1360,77 @@ a-hybrid-spherical-search-and-moth-flame-optimization-algorithm:
       authorrole = {first\_author},
       pages = {211-217},
     }
+nas-dnm-neural-architecture-search-for-dendritic-neuron-modeling-in-va-ecmo-mortality-prediction:
+  ieee: 'B. Shi, S. Tao, R. Zhao, H. Hu, S. Liu, and Y. Yang, “NAS-DNM: Neural Architecture Search for
+    Dendritic Neuron Modeling in VA-ECMO Mortality Prediction,” in 19th IEEE International Symposium on
+    Embedded Multicore/Many-core Systems-on-Chip (MCSoC 2026), 2026.'
+  nature: 'Shi, B. et al. NAS-DNM: Neural Architecture Search for Dendritic Neuron Modeling in VA-ECMO
+    Mortality Prediction. In 19th IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip
+    (MCSoC 2026) (2026).'
+  bibtex: "@inproceedings{shi2026nasdnm,\n  title = {NAS-DNM: Neural Architecture Search for Dendritic\
+    \ Neuron Modeling in VA-ECMO Mortality Prediction},\n  author = {Shi, Bingchao and Tao, Sichen and\
+    \ Zhao, Ruihan and Hu, Hanyu and Liu, Sicheng and Yang, Yifei},\n  year = {2026},\n  booktitle = {19th\
+    \ IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC 2026)},\n  status\
+    \ = {accepted},\n  selected = {false},\n  public = {true},\n  authorrole = {coauthor}\n}"
+degrees-of-freedom-in-submit-time-hpc-job-power-prediction-a-measurement-study:
+  ieee: 'H. Ding, S. Tao, M. Kawai, and H. Takizawa, “Degrees of Freedom in Submit-Time HPC Job Power
+    Prediction: A Measurement Study,” in 19th IEEE International Symposium on Embedded Multicore/Many-core
+    Systems-on-Chip (MCSoC 2026), 2026.'
+  nature: 'Ding, H. et al. Degrees of Freedom in Submit-Time HPC Job Power Prediction: A Measurement Study.
+    In 19th IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC 2026)
+    (2026).'
+  bibtex: "@inproceedings{ding2026degrees,\n  title = {Degrees of Freedom in Submit-Time HPC Job Power\
+    \ Prediction: A Measurement Study},\n  author = {Ding, H. and Tao, Sichen and Kawai, Masatoshi and\
+    \ Takizawa, Hiroyuki},\n  year = {2026},\n  booktitle = {19th IEEE International Symposium on Embedded\
+    \ Multicore/Many-core Systems-on-Chip (MCSoC 2026)},\n  status = {accepted},\n  selected = {false},\n\
+    \  public = {true},\n  authorrole = {coauthor}\n}"
+equivalence-over-similarity-hidden-layer-verification-as-a-filter-and-a-metric-for-fortran-to-c-translation:
+  ieee: 'R. Imai, S. Tao, M. Kawai, and H. Takizawa, “Equivalence over Similarity: Hidden-Layer Verification
+    as a Filter and a Metric for Fortran-to-C++ Translation,” in CANDAR 2026 (Long Paper), 2026.'
+  nature: 'Imai, R. et al. Equivalence over Similarity: Hidden-Layer Verification as a Filter and a Metric
+    for Fortran-to-C++ Translation. In CANDAR 2026 (Long Paper) (2026).'
+  bibtex: "@inproceedings{imai2026equivalence,\n  title = {Equivalence over Similarity: Hidden-Layer Verification\
+    \ as a Filter and a Metric for Fortran-to-C++ Translation},\n  author = {Imai, R. and Tao, Sichen\
+    \ and Kawai, Masatoshi and Takizawa, Hiroyuki},\n  year = {2026},\n  booktitle = {CANDAR 2026 (Long\
+    \ Paper)},\n  status = {accepted},\n  selected = {false},\n  public = {true},\n  authorrole = {coauthor}\n\
+    }"
+vecarp-a-cache-replacement-policy-exploiting-vector-code-context:
+  ieee: 'S. Nomura, S. Tao, M. Kawai, and H. Takizawa, “VeCaRP: A Cache Replacement Policy Exploiting
+    Vector Code Context,” in CANDAR 2026 (Regular Paper), 2026.'
+  nature: 'Nomura, S. et al. VeCaRP: A Cache Replacement Policy Exploiting Vector Code Context. In CANDAR
+    2026 (Regular Paper) (2026).'
+  bibtex: "@inproceedings{nomura2026vecarp,\n  title = {VeCaRP: A Cache Replacement Policy Exploiting\
+    \ Vector Code Context},\n  author = {Nomura, S. and Tao, Sichen and Kawai, Masatoshi and Takizawa,\
+    \ Hiroyuki},\n  year = {2026},\n  booktitle = {CANDAR 2026 (Regular Paper)},\n  status = {accepted},\n\
+    \  selected = {false},\n  public = {true},\n  authorrole = {coauthor}\n}"
+closed-loop-success-history-driven-reconstructed-differential-evolution-for-constrained-multi-objective-optimization:
+  ieee: 'C. Jin, B. Shi, S. Tao, and Y. Yang, “Closed-Loop Success-History Driven Reconstructed Differential
+    Evolution for Constrained Multi-Objective Optimization,” in 2026 IEEE Congress on Evolutionary Computation
+    (CEC), pp. 1-8, 2026, doi: 10.1109/CEC69861.2026.11727269.'
+  nature: Jin, C. et al. Closed-Loop Success-History Driven Reconstructed Differential Evolution for Constrained
+    Multi-Objective Optimization. In 2026 IEEE Congress on Evolutionary Computation (CEC), 1–8 (2026).
+  bibtex: "@inproceedings{jin2026closed,\n  title = {Closed-Loop Success-History Driven Reconstructed\
+    \ Differential Evolution for Constrained Multi-Objective Optimization},\n  author = {Jin, Chennuo\
+    \ and Shi, Bingchao and Tao, Sichen and Yang, Yifei},\n  year = {2026},\n  booktitle = {2026 IEEE\
+    \ Congress on Evolutionary Computation (CEC)},\n  pages = {1-8},\n  publisher = {IEEE},\n  doi = {10.1109/CEC69861.2026.11727269},\n\
+    \  url = {https://doi.org/10.1109/CEC69861.2026.11727269},\n  status = {published},\n  selected =\
+    \ {false},\n  public = {true},\n  authorrole = {coauthor}\n}"
+a-transparent-dynamic-core-allocation-method-for-hybrid-mpi-openmp-parallel-programs:
+  ieee: Y. Ishihara, M. Kawai, S. Tao, and H. Takizawa, “A Transparent Dynamic Core Allocation Method
+    for Hybrid MPI/OpenMP Parallel Programs,” in xSIG 2026 (SWoPP 2026), 2026.
+  nature: Ishihara, Y. et al. A Transparent Dynamic Core Allocation Method for Hybrid MPI/OpenMP Parallel
+    Programs. In xSIG 2026 (SWoPP 2026) (2026).
+  bibtex: "@inproceedings{ishihara2026transparent,\n  title = {A Transparent Dynamic Core Allocation Method\
+    \ for Hybrid MPI/OpenMP Parallel Programs},\n  author = {Ishihara, Yusuke and Kawai, Masatoshi and\
+    \ Tao, Sichen and Takizawa, Hiroyuki},\n  year = {2026},\n  booktitle = {xSIG 2026 (SWoPP 2026)},\n\
+    \  status = {published},\n  selected = {false},\n  public = {true},\n  authorrole = {coauthor}\n}"
+semi-automatic-host-device-data-transfer-based-on-code-analysis:
+  ieee: K. Watanabe, M. Kawai, J. Fukuhara, T. Funazaki, S. Nishimura, S. Tao, and H. Takizawa, “Semi-Automatic
+    Host-Device Data Transfer Based on Code Analysis,” in xSIG 2026 (SWoPP 2026), 2026.
+  nature: Watanabe, K. et al. Semi-Automatic Host-Device Data Transfer Based on Code Analysis. In xSIG
+    2026 (SWoPP 2026) (2026).
+  bibtex: "@inproceedings{watanabe2026semi,\n  title = {Semi-Automatic Host-Device Data Transfer Based\
+    \ on Code Analysis},\n  author = {Watanabe, K. and Kawai, Masatoshi and Fukuhara, J. and Funazaki,\
+    \ T. and Nishimura, S. and Tao, Sichen and Takizawa, Hiroyuki},\n  year = {2026},\n  booktitle = {xSIG\
+    \ 2026 (SWoPP 2026)},\n  status = {published},\n  selected = {false},\n  public = {true},\n  authorrole\
+    \ = {coauthor}\n}"

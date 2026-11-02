@@ -1,4 +1,18 @@
 editorial_roles:
+  - period: 2026-06 to present
+    start: "2026-06"
+    category: Editorial
+    title: Guest Editor
+    organization: Mathematics, MDPI, special issue “High-Performance Computing-Driven AI Learning and Optimization”
+    description: Guest Editor for the special issue High-Performance Computing-Driven AI Learning and Optimization.
+    institution_theme: tohoku
+  - period: 2026-03 to present
+    start: "2026-03"
+    category: Editorial
+    title: Guest Editor
+    organization: Mathematics, MDPI, special issue “Mathematical Modelling and Intelligent Optimization for Complex Engineering Systems”
+    description: Guest Editor for the special issue Mathematical Modelling and Intelligent Optimization for Complex Engineering Systems.
+    institution_theme: tohoku
   - period: 2023-05 to 2025-01
     start: "2023-05-01"
     end: "2025-01-31"
